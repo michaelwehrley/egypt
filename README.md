@@ -22,11 +22,9 @@ Becuase of the unpredictableness of the Nile and isolated by desert climate was 
 
 Order, not Chaos was the will of the gods.
 
-The living god was the early manifestation of Horus, a hawk.
+The living god was the early manifestation of **Horus**, a hawk while **Seth**, the harbinger of Chaos.
 
-vs.
-
-Seth, the harbinger of Chaos.
+Pharaohs needed to talk to gods in order to keep **ma'at** (i.e., order).  There were man threats from flash floods (World's oldest dam at [Wadi](https://en.wikipedia.org/wiki/Wadi_Tumilat)), drought, sand, neighbors, and **death**.
 
 ## Nabta Playa, Calendars, and Papyrus and Lotus 
 
@@ -53,6 +51,8 @@ Seth, the harbinger of Chaos.
 ![Unified Crown Egypt](/images/lower_egypt_crown.png)
 ![Crown Example](/images/unified_crown_example.png)
 ![Narmer Palette](/images/narmer_palette.jpg)
+
+## 
 
 ## Manetho
 
