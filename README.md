@@ -42,6 +42,13 @@ Seth, the harbinger of Chaos.
 1. Spirits of the dead ruled before.
 1. King Menes - found Egypts first dynasty (3100 BCE) (carried off by a Hipo - WTF?)
 
+![Nekhen Temple](/images/temple.jpg)
+![Eagle](/images/eagle.jpg)
+![Buto Pottery A](/images/slat_pottery_1.png)
+![Buto Pottery B](/images/slat_pottery_2.png)
+![Nekhen Pottery](/images/nekhen_pottery.png)
+![Buto attempt at Nekhen Pottery](/images/buto_attempts.png)
+
 ## Manetho
 
 Manetho was an Egyptian chronologist.  Came up with 30 dynasties
