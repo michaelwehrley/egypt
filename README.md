@@ -35,14 +35,12 @@ Seth, the harbinger of Chaos.
 1. **5000 BCE**: People of the desert migrated to Nile as oases like Nabta Playa dried up.  The Nile Was a blessing and curse: floods and droughts.  Egyptians created the calendar we used to day: with 4 seasons!  **But** they used it to watch the Nile not the weather.
 1. **4000 BCE**: as the people from the oases such as Nabta Playa finally settle, the beginnings of civilization appear: pottery, drawings et cetera.
 1. **4000-3000 BCE**: two kingdoms appear: Papyrus Plant (Lower Egypt - the delta) and Lotus (Upper Egypt - "start" of the Nile)
-1. **3500-3200 BCE**: 2 Kingdoms
+1. **3500-3200 BCE**: 2 Kingdoms:
   * The first city of Egypt: **Hierakonpolis** - city of the Hawk (i.e., [Nekhen](https://en.wikipedia.org/wiki/Nekhen)) on the Nile and one of the most important.
   * The kingdom of Lower Egypt: **[Buto](https://en.wikipedia.org/wiki/Buto)**.  Residents were less sophisticated.  This is demonstrated by the kilns and pottery.
-1. Unification through bloody conquest,
-
-1. Earliest known temple in is in 
-1. Spirits of the dead ruled before.
-1. King Menes - found Egypts first dynasty (3100 BCE) (carried off by a Hipo - WTF?)
+1. **3200 BCE**: Hieroglyphics. Sumarian writing only had counting, at this time Egyptians had more complex writings.
+1. **3100 BCE**: The first pharaoh, King Narmer, began unifying Lower and Upper Egypt: the founder of the first dynasty. Pharaohs of the first dynasty were buried in [Abydos](https://en.wikipedia.org/wiki/Abydos,_Egypt).  The capital was [Thinis](https://en.wikipedia.org/wiki/Thinis)
+1. **3100 BCE**: King Narmer Founding of Memphis for a new capital. Memphis comes from [Menes](https://en.wikipedia.org/wiki/Menes).
 
 ![Nekhen Temple](/images/temple.jpg)
 ![Eagle](/images/eagle.jpg)
@@ -54,7 +52,13 @@ Seth, the harbinger of Chaos.
 ![Lower Egypt](/images/lower_egypt_crown.png)
 ![Unified Crown Egypt](/images/lower_egypt_crown.png)
 ![Crown Example](/images/unified_crown_example.png)
+![Narmer Palette](/images/narmer_palette.jpg)
 
 ## Manetho
 
 Manetho was an Egyptian chronologist.  Came up with 30 dynasties
+
+
+1. Earliest known temple in is in 
+1. Spirits of the dead ruled before.
+1. King Menes - found Egypts first dynasty (3100 BCE) (carried off by a Hipo - WTF?)
