@@ -28,18 +28,20 @@ vs.
 
 Seth, the harbinger of Chaos.
 
+## Nabta Playa, Calendars, and Papyrus and Lotus 
+
+1. **8000 BCE**: Sahara wasn't always aird and parched: [Nabta Playa](https://en.wikipedia.org/wiki/Nabta_Playa#/media/File:Nabta-Egypt_NL.jpg). Because of the summer monsoon, oases would form, but still 3 days without rain and the lake would dry up.
+1. **5500-5000 BCE**: First ever calendar is created in the desert to predict the beginning of summer and the rainy season! 2000 years before Stonehenge (3100 BC).
+1. **5000 BCE**: People of the desert migrated to Nile as oases like Nabta Playa dried up.  The Nile Was a blessing and curse: floods and droughts.  Egyptians created the calendar we used to day: with 4 seasons!  **But** they used it to watch the Nile not the weather.
+1. **4000 BCE**: as the people from the oases such as Nabta Playa finally settle, the beginnings of civilization appear: pottery, drawings et cetera.
+1. **4000-3000 BCE**: two kingdoms appear: Papyrus Plant (Lower Egypt - the delta) and Lotus (Upper Egypt - "start" of the Nile)
+1. **3500-3200 BCE**: 2 Kingdoms
+  1. The first city of Egypt: **Hierakonpolis** - city of the Hawk (i.e., [Nekhen](https://en.wikipedia.org/wiki/Nekhen)) on the Nile and one of the most important.
+  1. The kingdom of Lower Egypt: **[Buto](https://en.wikipedia.org/wiki/Buto)**.  Residents were less sophisticated.  This is demonstrated by the kilns and pottery.
+1. Earliest known temple in is in 
+1. Spirits of the dead ruled before.
+1. King Menes - found Egypts first dynasty (3100 BCE) (carried off by a Hipo - WTF?)
+
 ## Manetho
 
 Manetho was an Egyptian chronologist.  Came up with 30 dynasties
-
-## Nabta Playa, Calendars, and Papyrus and Lotus 
-
-1. **8000 BCE** Sahara wasn't always aird and parched: [Nabta Playa](https://en.wikipedia.org/wiki/Nabta_Playa#/media/File:Nabta-Egypt_NL.jpg). Because of the summer monsoon, oases would form, but still 3 days without rain and the lake would dry up.
-1. **5500-5000 BCE** First ever calendar is created in the desert to predict the beginning of summer and the rainy season! 2000 years before Stonehenge (3100 BC).
-1. **5000 BCE** People of the desert migrated to Nile as oases like Nabta Playa dried up.  The Nile Was a blessing and curse: floods and droughts.  Egyptians created the calendar we used to day: with 4 seasons!  **But** they used it to watch the Nile not the weather.
-1. **4000 BCE** as the people from the oases such as Nabta Playa finally settle, the beginnings of civilization appear: pottery, drawings et cetera.
-1. **4000-3000 BCE** two kingdoms appear: Papyrus Plant (Lower Egypt - the delta) and Lotus (Upper Egypt - "start" of the Nile)
-1. Once the kingdoms are woven together, the greatest kingdom is born.
-1. **3500-3200 BCE** The first city of Egypt: Hierakonpolis (i.e., [Nekhen](https://en.wikipedia.org/wiki/Nekhen))
-1. Spirits of the dead ruled before.
-1. King Menes - found Egypts first dynasty (3100 BCE) (carried off by a Hipo - WTF?)
