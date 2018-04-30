@@ -36,8 +36,10 @@ Seth, the harbinger of Chaos.
 1. **4000 BCE**: as the people from the oases such as Nabta Playa finally settle, the beginnings of civilization appear: pottery, drawings et cetera.
 1. **4000-3000 BCE**: two kingdoms appear: Papyrus Plant (Lower Egypt - the delta) and Lotus (Upper Egypt - "start" of the Nile)
 1. **3500-3200 BCE**: 2 Kingdoms
-  1. The first city of Egypt: **Hierakonpolis** - city of the Hawk (i.e., [Nekhen](https://en.wikipedia.org/wiki/Nekhen)) on the Nile and one of the most important.
-  1. The kingdom of Lower Egypt: **[Buto](https://en.wikipedia.org/wiki/Buto)**.  Residents were less sophisticated.  This is demonstrated by the kilns and pottery.
+  * The first city of Egypt: **Hierakonpolis** - city of the Hawk (i.e., [Nekhen](https://en.wikipedia.org/wiki/Nekhen)) on the Nile and one of the most important.
+  * The kingdom of Lower Egypt: **[Buto](https://en.wikipedia.org/wiki/Buto)**.  Residents were less sophisticated.  This is demonstrated by the kilns and pottery.
+1. Unification through bloody conquest,
+
 1. Earliest known temple in is in 
 1. Spirits of the dead ruled before.
 1. King Menes - found Egypts first dynasty (3100 BCE) (carried off by a Hipo - WTF?)
@@ -48,6 +50,10 @@ Seth, the harbinger of Chaos.
 ![Buto Pottery B](/images/slat_pottery_2.png)
 ![Nekhen Pottery](/images/nekhen_pottery.png)
 ![Buto attempt at Nekhen Pottery](/images/buto_attempts.png)
+![Upper Egypt](/images/upper_egypt_crown.png)
+![Lower Egypt](/images/lower_egypt_crown.png)
+![Unified Crown Egypt](/images/lower_egypt_crown.png)
+![Crown Example](/images/unified_crown_example.png)
 
 ## Manetho
 
