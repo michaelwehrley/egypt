@@ -10,6 +10,7 @@
 * **Saqqara** - Pyramid of Djoser - first step pyramid
 * **[Meidum](https://en.wikipedia.org/wiki/Meidum)** post-Djoser - last step-pyramid
 * North of Medium is **Dahshur** (pyramids after Meidum)
+* Dam (unsuccessful) at [Wadi](https://en.wikipedia.org/wiki/Sadd_el-Kafara).
 
 Cleopatra who ruled Egypt in the first centry BCE, is closer to us today, then the pharoahs who built the pyramids!
 
@@ -29,13 +30,13 @@ Centuries before Europe, Greece, Rome, and the Assyrian Empire begin Egypt is bu
 
 ## Horus vs Chaos (Climate)
 
-Becuase of the unpredictableness of the Nile and isolated by desert climate was central to Egyptian culture
+Becuase of the unpredictableness of the Nile and isolated by desert, climate was central to Egyptian culture
 
 Order, not Chaos was the will of the gods.
 
-The living god was the early manifestation of **Horus**, a hawk while **Seth**, the harbinger of Chaos.
+The living god was the early manifestation of **Horus**, a hawk, while **Seth** was the harbinger of Chaos.
 
-Pharaohs needed to talk to gods in order to keep **ma'at** (i.e., order).  There were man threats from flash floods (World's oldest dam at [Wadi](https://en.wikipedia.org/wiki/Wadi_Tumilat)), drought, sand, neighbors, and **death**.
+Pharaohs needed to talk to the gods in order to keep **ma'at** (i.e., order).  There were man threats from flash floods (World's oldest dam at [Wadi](https://en.wikipedia.org/wiki/Sadd_el-Kafara)), drought, sand, neighbors, and **death**.
 
 ## Nabta Playa, Calendars, and Papyrus and Lotus 
 
@@ -46,10 +47,10 @@ Pharaohs needed to talk to gods in order to keep **ma'at** (i.e., order).  There
 1. **4000 BCE**: as the people from the oases such as Nabta Playa finally settle, the beginnings of civilization appear: pottery, drawings et cetera.
 1. **4000-3000 BCE**: two kingdoms appear: Papyrus Plant (Lower Egypt - the delta) and Lotus (Upper Egypt - "start" of the Nile)
 1. **3500-3200 BCE**: 2 Kingdoms:
-  1. The first city of Egypt: **Hierakonpolis** - city of the Hawk (i.e., [Nekhen](https://en.wikipedia.org/wiki/Nekhen)) on the Nile and one of the most important.
+  1. The first city of Egypt: **Hierakonpolis** - city of the Hawk (i.e., **[Nekhen](https://en.wikipedia.org/wiki/Nekhen))** on the Nile and one of the most important.
   1. The kingdom of Lower Egypt: **[Buto](https://en.wikipedia.org/wiki/Buto)**.  Residents were less sophisticated.  This is demonstrated by the kilns and pottery.
 1. **3200 BCE**: Hieroglyphics. Sumarian writing only had counting, at this time Egyptians had more complex writings.
-1. **3100 BCE**: The first pharaoh, King Narmer, began unifying Lower and Upper Egypt: the founder of the first dynasty. Pharaohs of the first dynasty were buried in [Abydos](https://en.wikipedia.org/wiki/Abydos,_Egypt).  The capital was [Thinis](https://en.wikipedia.org/wiki/Thinis)
+1. **3100 BCE**: The first pharaoh, **[King Narmer](https://en.wikipedia.org/wiki/Narmer)**, began unifying Lower and Upper Egypt: the founder of the first dynasty. Pharaohs of the first dynasty were buried in [Abydos](https://en.wikipedia.org/wiki/Abydos,_Egypt).  The capital was [Thinis](https://en.wikipedia.org/wiki/Thinis).
 1. **3100 BCE**: King Narmer Founding of Memphis for a new capital. Memphis comes from [Menes](https://en.wikipedia.org/wiki/Menes).
 
 ![Nekhen Temple](/images/temple.jpg)
@@ -68,11 +69,11 @@ Pharaohs needed to talk to gods in order to keep **ma'at** (i.e., order).  There
 
 * Egypt's first pyramid [The Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - virtual guide to immortality: spells and formulas.  Example: a soul full of sin won't make!
 * Pyramid of Unas was first talk structure built in stone.
-* Pyramds are the vehicle to resurrection and immortality
-* Pyramids of Giza are not the only pyramids.  Pyramids dot the Nile river all the way down to [Aswan](https://en.wikipedia.org/wiki/Aswan)
+* Pyramds are the vehicle to resurrection and immortality.
+* Pyramids of Giza are not the only pyramids.  Pyramids dot the Nile river all the way down to [Aswan](https://en.wikipedia.org/wiki/Aswan).
 
 ### 2nd Dynasty
-1. **2780 BCE** Tomb of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy) buried near **Abydos**.  He undertook considerable building projects upon the reunification of Egypt. [Built buildings out of **brick**! Recessed walls make it look beautiful with the sun moving across the sky](https://www.nytimes.com/2007/01/09/science/09egypt.html)!
+1. **2780 BCE** [Tomb](https://www.nytimes.com/2007/01/09/science/09egypt.html) of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy) buried near **Abydos**.  He undertook considerable building projects upon the reunification of Egypt. [Built buildings out of **brick**! Recessed walls make it look beautiful with the sun moving across the sky](https://www.nytimes.com/2007/01/09/science/09egypt.html)!
 
 ### 3rd Dynasty
 1. 2500 BCE the great enclosure near the pyramid of Djoser - just huge! And predates Djoser by 25 years!  Oldest monumental structure created entirley of stone.
