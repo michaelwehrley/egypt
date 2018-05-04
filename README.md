@@ -14,6 +14,8 @@ When Herodotus visited Egypt, the Egyptians already consider themselves ancient.
   * Pyramids of **Giza** built for Sneferu's successors: Khufu, Khafre (2 feet smaller and better preserved), and Menkaure
   * Sphinx: 
   * [The Wall of the Crow](http://www.aeraweb.org/lost-city-project/wall-of-the-crow/) & [Nova: The Wall of the Crow](http://www.pbs.org/wgbh/nova/ancient/lehner-giza.html). This wall separated the hollowed ground of the pyramids from the mundaine. These mundane people were not slaves but a small thriving community of workers dedicted to serving the king. Bakeries, kitchens with fish, with 600+ small "pyramids" for many workers scattered around; images of making wine (4 types) and making beer (5 types)
+* Abusir: The Forgotten Pyramids
+  * [Neferefre](https://en.wikipedia.org/wiki/Neferefre)
 * Saqqara: 10 miles south of Cairo
   * [Gisr el-Mudir / The Enclosure of the Boss](https://en.wikipedia.org/wiki/Gisr_el-Mudir): pre-dates Pyramid if Djoser and making it oldest monument erected entirely with stone. 
   * [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser): first step pyramid & first tall structure built in **stone** (no longer of mud-brick and wood). [Imhotep](https://en.wikipedia.org/wiki/Imhotep), Djoser's pyramid architect, was of such importance and fame that he was honoured as a saint.
@@ -29,7 +31,8 @@ When Herodotus visited Egypt, the Egyptians already consider themselves ancient.
   * Tomb and Mound of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy)
   * [Oldest standing structures made of brick]((https://www.nytimes.com/2007/01/09/science/09egypt.html))
   <!-- * See tombs at Abydos/Shunet El Zebib? Khasekhemwy - the builder - with brick tomb. Recessed walls - beautiful -->
-
+* [Thebes]
+  * **1500 BCE**
 * [Wadi]()
   * Dam (unsuccessful) at [Wadi](https://en.wikipedia.org/wiki/Sadd_el-Kafara).
 
@@ -99,16 +102,27 @@ Pharaohs needed to talk to the gods in order to keep **ma'at** (i.e., order).  T
 1. **2667–2648 BC**: The [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser)) - [Step Pyramid](https://en.wikipedia.org/wiki/Step_pyramid) for King Djoser at Saqqara - 141 ft. Djoser buried Khasekhemwy!  Djoser was Khasekhemwy's step-son.  Djoser combined the tomb/enclosure walls of Khasekhemwy but made the **mastabas** higher and higher to be visible: The step pyramid. A staircase to heaven: Commissioned the first Pyramid in Egypt.
 1. **2637–2613 BCE** Pharaoh Huni & [Medium](https://en.wikipedia.org/wiki/Meidum) - the False Pyramid. The first and last step pyramid after Djoser. - 213 (ruined) - 301 ft tall. Built by last Pharaoh of the 3rd dynasty: Huni.  But Sneferu was behind the idea.
 
-#### 4th Dynasty
+#### 4th Dynasty (Traditional Pyramids)
 1. **2600 BC** [Sneferu](https://en.wikipedia.org/wiki/Sneferu) - Egypt's greatest pyramid builder. Build monements after Djoser in Dahshur.  The [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).  Would have been taller than pyramids of Giza.  The bent pryamid was built on sandy ground and began to crack - it had to be abandoned.
 1. **2600+ BCE** [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid): 45 degrees - the same as the Bent Pyramid's bent part - (344 ft). Rooms inside resemble a double pyramid to support - increase changes to go to haven. 17 years from the bricks!
 1. **2580–2560 BCE** [Khufu](https://en.wikipedia.org/wiki/Khufu) [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza) - 455 ft
 1. **2570 BCE** [Pyramid of Khafre](https://en.wikipedia.org/wiki/Pyramid_of_Khafre) (2 feet smaller and better preserved) - causeway to the Nile: the **Sphix**
 1. Menkaure
 
-#### 5th Dynasty
+Forgotten Pyramids
+
+#### 5th Dynasty (Time not so kind to these pyramids)
+1. [Neferefre](https://en.wikipedia.org/wiki/Neferefre): incomplete pyramid but a vast amount of 5th dynasty items. If tomb found, he would be the oldest intact mummy ever found.  Details records of 200 years of the king's cult festivals and honoring rituals
 1. **2498–2491 BCE**: [Userkaf](https://en.wikipedia.org/wiki/Userkaf). Built the "Heap of Stone" pyramid at [Saqqara](https://en.wikipedia.org/wiki/Pyramid_of_Userkaf).
 1. **2360 BCE**: [Unas](https://en.wikipedia.org/wiki/Unas). The last of pharaohs in the 5th Dynasty [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - Originally reaching 141 ft - now it is ruined.
+
+-- Pyramids went underground except for the Kingdom of Kush in modern day Sudan. Egypt coveted the wealth of **Nubia** 1400 BCE -- [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal)
+
+#### 18th Dynasty (Thebes - Pyramid-shaped mountain - Valley of the Kings)
+1. **1500 BCE** [Thutmose_I](https://en.wikipedia.org/wiki/Thutmose_I) designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni)
+1. **1500 BCE** [Thutmose_III](https://en.wikipedia.org/wiki/Thutmose_III) Conquered Nubia (west Nile) and the Kingdom of Kush (East Nile).  They were the the gate keepers to the heart of Africa.
+
+1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt.  Smaller and steeper wuht flat tops. [Meroe](https://en.wikipedia.org/wiki/Mero%C3%AB)
 
 ## Manetho
 
