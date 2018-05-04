@@ -1,38 +1,54 @@
 # Egypt
 
-* Pyramids of **Giza**
-
-* Kingdomw of Upper (Nekhen) and Lower (Buto) Egytp
-* **Memphis** - unified capital
-
-* Tomb of King Unas: virtual guide to immortality: spells and formulas (**Saqqara**, 10 miles south of Cairo)
-* See tombs at Abydos/Shunet El Zebib? Khasekhemwy - the builder - with brick tomb. Recessed walls - beautiful
-* **Saqqara** - Pyramid of Djoser - first step pyramid
-* **[Meidum](https://en.wikipedia.org/wiki/Meidum)** post-Djoser - last step-pyramid
-* North of Medium is **Dahshur** (pyramids after Meidum)
-* Dam (unsuccessful) at [Wadi](https://en.wikipedia.org/wiki/Sadd_el-Kafara).
-
 Cleopatra who ruled Egypt in the first centry BCE, is closer to us today, then the pharoahs who built the pyramids!
 
 When Herodotus visited Egypt, the Egyptians already consider themselves ancient.
 
-## General Background
+## Sites to Visit (north to south)
+* Nekhen: Kingdom of Upper Egypt
+* Buto: Lower Egypt
+* Memphis: unified capital
 
-Centuries before Europe, Greece, Rome, and the Assyrian Empire begin Egypt is building the pramids of Giza (i.e., the Great Pyramid of Giz) between 2560–2540 BC.
+* Cairo
+* Giza
+  * Pyramids of **Giza** built for Sneferu's successors: Khufu, Khafre (2 feet smaller and better preserved), and Menkaure
+  * Sphinx: 
+  * [The Wall of the Crow](http://www.aeraweb.org/lost-city-project/wall-of-the-crow/) & [Nova: The Wall of the Crow](http://www.pbs.org/wgbh/nova/ancient/lehner-giza.html). This wall separated the hollowed ground of the pyramids from the mundaine. These mundane people were not slaves but a small thriving community of workers dedicted to serving the king. Bakeries, kitchens with fish, with 600+ small "pyramids" for many workers scattered around; images of making wine (4 types) and making beer (5 types)
+* Saqqara: 10 miles south of Cairo
+  * [Gisr el-Mudir / The Enclosure of the Boss](https://en.wikipedia.org/wiki/Gisr_el-Mudir): pre-dates Pyramid if Djoser and making it oldest monument erected entirely with stone. 
+  * [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser): first step pyramid & first tall structure built in **stone** (no longer of mud-brick and wood). [Imhotep](https://en.wikipedia.org/wiki/Imhotep), Djoser's pyramid architect, was of such importance and fame that he was honoured as a saint.
+  * [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas): Virtual guide to immortality: spells and formulas; get rid of sin. Don't be fooled by the mound/ruin.
+* Dahshur: [Sneferu](https://en.wikipedia.org/wiki/Sneferu), 2 monuments influenced by step pyramids:
+  * [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).
+  * [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid)
+* [Meidum](https://en.wikipedia.org/wiki/Meidum)
+  * False Pyramid - collapsed b/c of stone robbing
+  * Last step-pyramid
+* [Abydos](https://en.wikipedia.org/wiki/Abydos,_Egypt)
+  * Early kings of Egypt were buried here with just sands, rubble, gravel, and wood beams: **mastabas** (i.e., mound of creation)
+  * Tomb and Mound of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy)
+  * [Oldest standing structures made of brick]((https://www.nytimes.com/2007/01/09/science/09egypt.html))
+  <!-- * See tombs at Abydos/Shunet El Zebib? Khasekhemwy - the builder - with brick tomb. Recessed walls - beautiful -->
+
+* [Wadi]()
+  * Dam (unsuccessful) at [Wadi](https://en.wikipedia.org/wiki/Sadd_el-Kafara).
+
+* Valley of the Kings
+
+## Neighbors and Context
 
 * Nothern Europe: still in the stone age (ended between 8700 - 2000 BCE)
-* Greece:
-  * Archaic Greece (800 BC – 480 BC) 
-  * Classical Greece (480 BC – 323 BC) - Herodotus visits Egypt and describes it's geography, people, and recounts a few semi-mythical stories.
-  * Hellenistic Greece (323 BC – 146 BC)
+* Greece: (800 BC – 146 BCE)
 * Rome: Founding of Rome 753 BC
 * Assyrian 2500 - 609 BC
 
 ## Horus vs Chaos (Climate)
 
-Becuase of the unpredictableness of the Nile and isolated by desert, climate was central to Egyptian culture
+Why Egypt viewed the world as so chaotic and climate was central to Egyptian culture
+  * Unpredictableness of the Nile
+  * Isolated by desert
 
-Order, not Chaos was the will of the gods.
+Order (Ma'at), not Chaos was the will of the gods.
 
 The living god was the early manifestation of **Horus**, a hawk, while **Seth** was the harbinger of Chaos.
 
@@ -67,42 +83,32 @@ Pharaohs needed to talk to the gods in order to keep **ma'at** (i.e., order).  T
 ![Narmer Palette](/images/narmer_palette.jpg)
 
 ## Pharaoh's Quest for Eternity
-
-* Egypt's first pyramid [The Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - virtual guide to immortality: spells and formulas.  Example: a soul full of sin won't make!
-* Pyramid of Unas was first talk structure built in stone.
 * Pyramds are the vehicle to resurrection and immortality.
 * Pyramids of Giza are not the only pyramids.  Pyramids dot the Nile river all the way down to [Aswan](https://en.wikipedia.org/wiki/Aswan).
 
 ### Early Dynastic Period
 
-* King Narmer - first king
-* King Khasekhemwy (last of 2nd Dynasty)
-* Djoser - buried Khasekemwy & Ccmmissioned the first Pyramid in Egypt, created by chief architect and scribe Imhotep and designed first [step pyramid for Djoser](https://en.wikipedia.org/wiki/Imhotep#/media/File:Sakkara_01.jpg).
-
-
 #### 1st Dynasty
 * **3100 BCE** King Narmer
 
-#### 2nd Dynasty
-1. **2780 BCE** King Khasekhemwy.  Last king of the 2nd dynasty [Tomb](https://www.nytimes.com/2007/01/09/science/09egypt.html) of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy) buried near **Abydos**.  He undertook considerable building projects upon the reunification of Egypt after a period of trouble. [Built buildings out of **brick**! Recessed walls make it look beautiful with the sun moving across the sky](https://www.nytimes.com/2007/01/09/science/09egypt.html)!
+#### 2nd Dynasty (Walls, Tombs, and Mastabas)
+1. **2780 BCE** King Khasekhemwy. Last king of the 2nd dynasty and known for the [Tomb](https://www.nytimes.com/2007/01/09/science/09egypt.html) of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy) buried near **Abydos**.  He undertook considerable building projects upon the reunification of Egypt after a period of trouble. [Built buildings out of **brick**! Recessed walls make it look beautiful with the sun moving across the sky](https://www.nytimes.com/2007/01/09/science/09egypt.html)!
 
-#### 3rd Dynasty
+#### 3rd Dynasty (Step Pyramids)
 1. 2500 BCE the great enclosure near the pyramid of Djoser - just huge! And predates Djoser by 25 years!  Oldest monumental structure created entirley of stone.
-1. **2667–2648 BC**: The [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser)) [Step Pyramid](https://en.wikipedia.org/wiki/Step_pyramid) for King Djoser at Saqqara - 141 ft. **Djoser** buried Khasekhemwy!  Djosre was Khasekhemwy's step-son.  Djoser combined the tomb/enclosure walls of Khasekhemwy but made the mound high and higher to be visible: The step pyramid. A staircase to heaven
-<!-- 1. **2649–2637 BCE** 3 other pharaohs  -->
-1. **2637–2613 BCE** Pharaoh Huni & [Medium](https://en.wikipedia.org/wiki/Meidum) - the False Pyramid. The first and last step pyramid after Djoser. - 213 (ruined) - 301 ft tall. Built by last Pharaoh of the 3rd dynasty: Huni.
+1. **2667–2648 BC**: The [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser)) - [Step Pyramid](https://en.wikipedia.org/wiki/Step_pyramid) for King Djoser at Saqqara - 141 ft. Djoser buried Khasekhemwy!  Djoser was Khasekhemwy's step-son.  Djoser combined the tomb/enclosure walls of Khasekhemwy but made the **mastabas** higher and higher to be visible: The step pyramid. A staircase to heaven: Commissioned the first Pyramid in Egypt.
+1. **2637–2613 BCE** Pharaoh Huni & [Medium](https://en.wikipedia.org/wiki/Meidum) - the False Pyramid. The first and last step pyramid after Djoser. - 213 (ruined) - 301 ft tall. Built by last Pharaoh of the 3rd dynasty: Huni.  But Sneferu was behind the idea.
 
 #### 4th Dynasty
-
-1. **2600 BC** [Sneferu](https://en.wikipedia.org/wiki/Sneferu) build monements after Djoser in Dahshur.  The [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).  Would have been taller than pyramids of Giza.  The bent pryamid was built on sandy ground and began to crack - it had to be abandoned.
-1. **2600+ BCE** [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid): 45 degrees - the same as the Bent Pyramid's bent part - (344 ft). Rooms inside resemble a double pyramid to support - increase changes to go to haven.
+1. **2600 BC** [Sneferu](https://en.wikipedia.org/wiki/Sneferu) - Egypt's greatest pyramid builder. Build monements after Djoser in Dahshur.  The [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).  Would have been taller than pyramids of Giza.  The bent pryamid was built on sandy ground and began to crack - it had to be abandoned.
+1. **2600+ BCE** [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid): 45 degrees - the same as the Bent Pyramid's bent part - (344 ft). Rooms inside resemble a double pyramid to support - increase changes to go to haven. 17 years from the bricks!
 1. **2580–2560 BCE** [Khufu](https://en.wikipedia.org/wiki/Khufu) [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza) - 455 ft
+1. **2570 BCE** [Pyramid of Khafre](https://en.wikipedia.org/wiki/Pyramid_of_Khafre) (2 feet smaller and better preserved) - causeway to the Nile: the **Sphix**
+1. Menkaure
 
 #### 5th Dynasty
-
 1. **2498–2491 BCE**: [Userkaf](https://en.wikipedia.org/wiki/Userkaf). Built the "Heap of Stone" pyramid at [Saqqara](https://en.wikipedia.org/wiki/Pyramid_of_Userkaf).
-1. **2360 BCE**: [Unas](https://en.wikipedia.org/wiki/Unas). The last of pharaohs int he 5th Dynasty [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - 203 ft
-
+1. **2360 BCE**: [Unas](https://en.wikipedia.org/wiki/Unas). The last of pharaohs in the 5th Dynasty [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - Originally reaching 141 ft - now it is ruined.
 
 ## Manetho
 
