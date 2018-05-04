@@ -122,7 +122,7 @@ Forgotten Pyramids
 1. **1500 BCE** [Thutmose_I](https://en.wikipedia.org/wiki/Thutmose_I) designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni)
 1. **1500 BCE** [Thutmose_III](https://en.wikipedia.org/wiki/Thutmose_III) Conquered Nubia (west Nile) and the Kingdom of Kush (East Nile).  They were the the gate keepers to the heart of Africa.
 
-1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt.  Smaller and steeper wuht flat tops. [Meroe](https://en.wikipedia.org/wiki/Mero%C3%AB)
+1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt.  Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
 
 ## Manetho
 
