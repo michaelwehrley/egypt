@@ -2,12 +2,12 @@
 
 Cleopatra who ruled Egypt in the first centry BCE, is closer to us today, then the pharoahs who built the pyramids!
 
-When Herodotus visited Egypt, the Egyptians already consider themselves ancient.
+When Herodotus visited Egypt, the Egyptians already consider themselves ancient - they had their own archeologists!
 
 ## Sites to Visit (north to south)
-* Nekhen: Kingdom of Upper Egypt
 * Buto: Lower Egypt
 * Memphis: unified capital
+* Nekhen: Kingdom of Upper Egypt
 
 * Cairo
 * Giza
@@ -38,15 +38,37 @@ When Herodotus visited Egypt, the Egyptians already consider themselves ancient.
 
 * Valley of the Kings
 
+## Art
+
+* Doesn't change - it was supposed to last eternity and so Egyptian art through the ages remains fairly constant
+* It is on the walls of tombs: So the gods know what the afterlife should be like - enjoy fishing for instance
+* Art show the peoples' fears.
+**1550 - 50 BCE** [Book_of_the_Dead](https://en.wikipedia.org/wiki/Book_of_the_Dead)
+
 ## Neighbors and Context
 
+* First mumificiations: born in the desert
+* Age 
+Pre-History (i.e., before writing) is relative: 700,000 - 7,000 BCE for Egypt
+* [Paleolithic](https://en.wikipedia.org/wiki/Paleolithic) - old stone
+* 700,000 - 70,000 hand-flint axe
+* [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic) - middle stone
+* 43,000 Nile starts to dry up
+* [Neolithic](https://en.wikipedia.org/wiki/Neolithic)
+* 7,000 BCE Egypt starts domestication and settles along Nile
 * Nothern Europe: still in the stone age (ended between 8700 - 2000 BCE)
 * Greece: (800 BC – 146 BCE)
 * Rome: Founding of Rome 753 BC
 * Assyrian 2500 - 609 BC
 
-## Horus vs Chaos (Climate)
+## Gods and Godesses
 
+### Myth of Osiris
+* Born in Egypt - never conquer
+* Must be whole - complete (first prostetic legs)
+* Fit perfectly in coffin
+
+### Horus vs Chaos (Climate)
 Why Egypt viewed the world as so chaotic and climate was central to Egyptian culture
   * Unpredictableness of the Nile
   * Isolated by desert
@@ -123,6 +145,9 @@ Forgotten Pyramids
 1. **1500 BCE** [Thutmose_III](https://en.wikipedia.org/wiki/Thutmose_III) Conquered Nubia (west Nile) and the Kingdom of Kush (East Nile).  They were the the gate keepers to the heart of Africa.
 
 1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt.  Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
+
+## Age of Gold
+1. **1327 BCE** Death of Tutankhamun.  The mask that covers his face is considered the most beautiful works of art ever crafted in gold.
 
 ## Manetho
 
