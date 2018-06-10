@@ -150,6 +150,8 @@ Narmar Palette lays the foundation for a god-king; i.e., a pharaoh.
 #### 2nd Dynasty (Walls, Tombs, and Mastabas)
 1. **2780 BCE** King Khasekhemwy. Last king of the 2nd dynasty and known for the [Tomb](https://www.nytimes.com/2007/01/09/science/09egypt.html) of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy) buried near **Abydos**.  He undertook considerable building projects upon the reunification of Egypt after a period of trouble. [Built buildings out of **brick**! Recessed walls make it look beautiful with the sun moving across the sky](https://www.nytimes.com/2007/01/09/science/09egypt.html)!
 
+### Old Kingdom
+
 #### 3rd Dynasty (Step Pyramids)
 1. 2500 BCE the great enclosure near the pyramid of Djoser - just huge! And predates Djoser by 25 years!  Oldest monumental structure created entirley of stone.
 1. **2667–2648 BC**: The [Pyramid of Djoser (Imhotep)]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser)) - [Step Pyramid](https://en.wikipedia.org/wiki/Step_pyramid) for King Djoser at Saqqara - 141 ft. Djoser buried Khasekhemwy!  Djoser was Khasekhemwy's step-son.  Djoser combined the tomb/enclosure walls of Khasekhemwy but made the **mastabas** higher and higher to be visible: The step pyramid. A staircase to heaven: Commissioned the first Pyramid in Egypt.
@@ -168,7 +170,7 @@ Narmar Palette lays the foundation for a god-king; i.e., a pharaoh.
 
 Forgotten Pyramids
 
-#### 5th Dynasty (Time not so kind to these pyramids - Sun king and Unas!)
+#### 5th Dynasty (`-Re`; Time not so kind to these pyramids - Sun king and Unas!)
 1. [Westcar_Papyrus](https://en.wikipedia.org/wiki/Westcar_Papyrus) tells the story of the beginning of dynasty 5.  Magician talks about the birth of the dynasty. **Solar kings - solar temple!**
 1. [Sun Temples](https://en.wikipedia.org/wiki/Egyptian_sun_temple)
 1. **2498–2491 BCE**: [Userkaf](https://en.wikipedia.org/wiki/Userkaf). Built the "Heap of Stone" pyramid at [Saqqara](https://en.wikipedia.org/wiki/Pyramid_of_Userkaf).
@@ -187,7 +189,19 @@ Forgotten Pyramids
 
 #### First Intermediate Period
 
-#### 11th Dynasty
+#### 11th Dynasty (`-Intef`)
+* Thebian monarchs trying to gain power & trying to **unify** upper and lower.
+* Sehertawy Intef I was the first.  Thought of himself as a unifying ruler and king of upper and lower, but not really.
+* Wahankh Intef II was the second and conquered Abydos and its nome.  He loved **dogs**.
+* Nakhtnebtepnefer. `-Nefer` means **beautiful**.  Think of [Nefertari](https://en.wikipedia.org/wiki/Nefertari). Nakhtnebtepnefer is **actually** fighting and unifying.
+
+### Middle Kingdom
+
+#### 11th Dynasty (`-Mentu` & `-Hotep`) Continued...
+* `-Mentu` (God of War) & `-Hotep` (to be pleased). This family knows you have to be tough to unify (Amunhotep: `Amun` is `pleased`)
+* [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II): **Nebhepetre Mentuhotep II** unified all Egypt c. 2015 BC, Middle Kingdom begins. 2060–2010 BC. Temple is at [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari) (the first there; later Hatshepsut’s Temple is built there)
+* Simple coffin - wooden box - **BUT** with spells.  The priests are so much more powerful - remember Unas w/ the Pyramid Texts.  After the raidings of pyramids, the common person now wants coffin texts b/c they don't have pyramids. The body shaped coffin is of the New Kingdom.
+* In 1911 [Winlock](https://en.wikipedia.org/wiki/Herbert_Eustis_Winlock)  began excavating the mortuary complex of the 11th Dynasty pharaoh Mentuhotep II (2010–1998 B.C.) at Deir el-Bahri in the Valley of the Kings, where he discovered the bodies of 60 soldiers slain in battle and buried in linen shrouds decorated with the cartouche of Pharaoh [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II). On March 17, 1920 Winlock discovered the tomb of Mentuhotep II's prime minister [Meketre](https://www.metmuseum.org/met-around-the-world/?page=10157), which contains a model bakery-brewery.  There is a shoulder in the NYC Metropolitan of art.
 
 #### 18th Dynasty (Thebes - Pyramid-shaped mountain - Valley of the Kings)
 1. **1500 BCE** [Thutmose_I](https://en.wikipedia.org/wiki/Thutmose_I) designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni)
