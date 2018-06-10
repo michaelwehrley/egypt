@@ -9,24 +9,30 @@ Lecture 2: 700,000 - 3,200 years
 Lecture 3: 
 Lecture 4: * Napolean
 Lecture 5: * Rosetta Stone & Hieroglyphs
-Lecture 6: Narmer Palette - in Egyptian Museum, Cairo
+Lecture 6: 1st king & Narmer Palette - in Egyptian Museum, Cairo
+Lecture 7: Rise of the Old Kingdom (i.e., Memphis). Saqqara v. Abydos; [Imhotep](https://en.wikipedia.org/wiki/Imhotep) architect w/ first step pyramid for Djoser 3rd dynasty. Build false doors imitate what they know out of store. [Heb-sed festival](https://en.wikipedia.org/wiki/Sed_festival) to show the pharaoh was still young.  Court yard is here & southern burials
+Lecture 8: [Sneferu](https://en.wikipedia.org/wiki/Sneferu) taught Egypt how to build pyramids: Meidum (causeway to bring up pharaoh from the temple), Bent Pyramid @ Dashur, Red Pyramid @ Dashur.
+Lecture 9: Pyramids of Giza.
 
 ## Sites to Visit (north to south)
 * Buto: Lower Egypt
-* Memphis: unified capital
 * Nekhen: Kingdom of Upper Egypt
 
 * Cairo
+  * Narmar Palette in Cairo Museum
+  * Monument of stela of Sneferu in garden and can't be missed
 * Giza
-  * Pyramids of **Giza** built for Sneferu's successors: Khufu, Khafre (2 feet smaller and better preserved), and Menkaure
+  * Pyramids of **Giza** built for [Sneferu](https://en.wikipedia.org/wiki/Sneferu)'s successors: Khufu, Khafre (2 feet smaller and better preserved), and Menkaure
   * Sphinx: 
   * [The Wall of the Crow](http://www.aeraweb.org/lost-city-project/wall-of-the-crow/) & [Nova: The Wall of the Crow](http://www.pbs.org/wgbh/nova/ancient/lehner-giza.html). This wall separated the hollowed ground of the pyramids from the mundaine. These mundane people were not slaves but a small thriving community of workers dedicted to serving the king. Bakeries, kitchens with fish, with 600+ small "pyramids" for many workers scattered around; images of making wine (4 types) and making beer (5 types)
 * Abusir: The Forgotten Pyramids
   * [Neferefre](https://en.wikipedia.org/wiki/Neferefre)
 * Saqqara: 10 miles south of Cairo
   * [Gisr el-Mudir / The Enclosure of the Boss](https://en.wikipedia.org/wiki/Gisr_el-Mudir): pre-dates Pyramid if Djoser and making it oldest monument erected entirely with stone. 
-  * [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser): first step pyramid & first tall structure built in **stone** (no longer of mud-brick and wood). [Imhotep](https://en.wikipedia.org/wiki/Imhotep), Djoser's pyramid architect, was of such importance and fame that he was honoured as a saint.
+  * [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser): first step pyramid & first tall structure built in **stone** (no longer of mud-brick and wood). [Imhotep](https://en.wikipedia.org/wiki/Imhotep), Djoser's pyramid architect, was of such importance and fame that he was honoured as a saint. Imhotep temple was never found, but associated with medicine and birds.
   * [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas): Virtual guide to immortality: spells and formulas; get rid of sin. Don't be fooled by the mound/ruin.
+* Memphis: unified capital. Memphis (12 mi south of Giza and was strategic) was believed to be under the protection of the god Ptah, the patron of craftsmen. Its great temple, Hut-ka-Ptah (meaning "Enclosure of the ka of Ptah"), was one of the most prominent structures in the city. The name of this temple, rendered in Greek as Aί-γυ-πτoς (Ai-gy-ptos) by the historian Manetho, is believed to be the etymological origin of the modern English name Egypt.
+* Meidum 
 * Dahshur: [Sneferu](https://en.wikipedia.org/wiki/Sneferu), 2 monuments influenced by step pyramids:
   * [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).
   * [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid)
@@ -34,7 +40,8 @@ Lecture 6: Narmer Palette - in Egyptian Museum, Cairo
   * False Pyramid - collapsed b/c of stone robbing
   * Last step-pyramid
 * [Abydos](https://en.wikipedia.org/wiki/Abydos,_Egypt)
-  * Early kings of Egypt were buried here with just sands, rubble, gravel, and wood beams: **mastabas** (i.e., mound of creation)
+  * [Flinders Petrie](https://en.wikipedia.org/wiki/Flinders_Petrie) paid his workers and gave them fair price. Found mummy's arm! Got braclet.
+  * Early kings of Egypt were buried here with just sands, rubble, gravel, and wood beams: **mastabas** (i.e., mound of creation). Isis puts Osiris back to gether here.
   * Tomb and Mound of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy)
   * [Oldest standing structures made of brick]((https://www.nytimes.com/2007/01/09/science/09egypt.html))
   <!-- * See tombs at Abydos/Shunet El Zebib? Khasekhemwy - the builder - with brick tomb. Recessed walls - beautiful -->
@@ -44,6 +51,8 @@ Lecture 6: Narmer Palette - in Egyptian Museum, Cairo
   * Dam (unsuccessful) at [Wadi](https://en.wikipedia.org/wiki/Sadd_el-Kafara).
 
 * Valley of the Kings
+* Valley of the Queens:
+  * [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti) is the wife of the Heretic King v. Rameses II wife [Nefertari](https://en.wikipedia.org/wiki/Nefertari).
 
 ## Art
 
@@ -69,10 +78,14 @@ Pre-History (i.e., before writing) is relative: 700,000 - 7,000 BCE for Egypt
 * Assyrian 2500 - 609 BC
 
 ## Gods and Godesses
+[Osiris myth](https://en.wikipedia.org/wiki/Osiris_myth)
 ![15 Major Ancient Egyptian Gods And Godesses](/images/15-ancient-egyptian-gods-facts-min.jpg)
-
+* [Horus](https://en.wikipedia.org/wiki/Horus)/Falcon on Earth (Narmar Pallet). Horus was the son of Osiris who revenged the death of Isis against Set. GOD-KING! (Plato: it is the best to have a philosopher king)
+* July: The gods around Aswan turn the Nile river red (setiment) and then green (vegitation)
+* [Anubis](https://en.wikipedia.org/wiki/Anubis)/Jackel (jackels are always wondering around decaying meat) The god associated with mummification and the afterlife in ancient Egyptian religion.
 
 ### Myth of Osiris
+* [Wiki](https://en.wikipedia.org/wiki/Osiris_myth)
 * Born in Egypt - never conquer
 * Must be whole - complete (first prostetic legs)
 * Fit perfectly in coffin
@@ -101,7 +114,7 @@ Pharaohs needed to talk to the gods in order to keep **ma'at** (i.e., order).  T
   1. The kingdom of Lower Egypt: **[Buto](https://en.wikipedia.org/wiki/Buto)**.  Residents were less sophisticated.  This is demonstrated by the kilns and pottery.
 1. **3200 BCE**: Hieroglyphics. Sumarian writing only had counting, at this time Egyptians had more complex writings.
 1. **3100 BCE**: The first pharaoh, **[King Narmer](https://en.wikipedia.org/wiki/Narmer)** -  began unifying Lower and Upper Egypt: the founder of the first dynasty; believed to be the same person as Menes. Pharaohs of the first dynasty were buried in [Abydos](https://en.wikipedia.org/wiki/Abydos,_Egypt).  The capital was [Thinis](https://en.wikipedia.org/wiki/Thinis).
-1. **3100 BCE**: King Narmer Founding of Memphis for a new capital. Memphis comes from [Menes](https://en.wikipedia.org/wiki/Menes).
+1. **3100 BCE**: King Narmer Founding of Memphis for a new capital. Memphis comes from [Menes](https://en.wikipedia.org/wiki/Menes) which is where the name Egypt comes from.
 
 ![Nekhen Temple](/images/temple.jpg)
 ![Eagle](/images/eagle.jpg)
@@ -124,20 +137,24 @@ Pharaohs needed to talk to the gods in order to keep **ma'at** (i.e., order).  T
 ### Early Dynastic Period
 
 #### 1st Dynasty
-* **3100 BCE** King Narmer & [Narmer Palette](https://en.wikipedia.org/wiki/Narmer_Palette) - first historical document in the world - In Cairo Museum. Palette was likely a cosmetic palette to anoint god. Narmer Palette displays art that will the consistent throughout history. Smitting is in this pallete for centuries (i.e., **Ramesses II** **smiting** a Nubian:
+* **3100 BCE** King Narmer & [Narmer Palette](https://en.wikipedia.org/wiki/Narmer_Palette) - first historical document in the world - In Cairo Museum - and carved by 2 different people. Palette was likely a cosmetic palette to anoint god. Narmer Palette displays art that will the consistent throughout history. Smitting is in this pallete for centuries (i.e., **Ramesses II** **smiting** a Nubian:
 ![Ramesses-II-smiting-nubian](/images/Ramesses-II-smiting-nubian.jpg)
+Narmar Palette lays the foundation for a god-king; i.e., a pharaoh.
 
 #### 2nd Dynasty (Walls, Tombs, and Mastabas)
 1. **2780 BCE** King Khasekhemwy. Last king of the 2nd dynasty and known for the [Tomb](https://www.nytimes.com/2007/01/09/science/09egypt.html) of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy) buried near **Abydos**.  He undertook considerable building projects upon the reunification of Egypt after a period of trouble. [Built buildings out of **brick**! Recessed walls make it look beautiful with the sun moving across the sky](https://www.nytimes.com/2007/01/09/science/09egypt.html)!
 
 #### 3rd Dynasty (Step Pyramids)
 1. 2500 BCE the great enclosure near the pyramid of Djoser - just huge! And predates Djoser by 25 years!  Oldest monumental structure created entirley of stone.
-1. **2667–2648 BC**: The [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser)) - [Step Pyramid](https://en.wikipedia.org/wiki/Step_pyramid) for King Djoser at Saqqara - 141 ft. Djoser buried Khasekhemwy!  Djoser was Khasekhemwy's step-son.  Djoser combined the tomb/enclosure walls of Khasekhemwy but made the **mastabas** higher and higher to be visible: The step pyramid. A staircase to heaven: Commissioned the first Pyramid in Egypt.
-1. **2637–2613 BCE** Pharaoh Huni & [Medium](https://en.wikipedia.org/wiki/Meidum) - the False Pyramid. The first and last step pyramid after Djoser. - 213 (ruined) - 301 ft tall. Built by last Pharaoh of the 3rd dynasty: Huni.  But Sneferu was behind the idea.
+1. **2667–2648 BC**: The [Pyramid of Djoser (Imhotep)]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser)) - [Step Pyramid](https://en.wikipedia.org/wiki/Step_pyramid) for King Djoser at Saqqara - 141 ft. Djoser buried Khasekhemwy!  Djoser was Khasekhemwy's step-son.  Djoser combined the tomb/enclosure walls of Khasekhemwy but made the **mastabas** higher and higher to be visible: The step pyramid. A staircase to heaven: Commissioned the first Pyramid in Egypt.
+1. Following Pharaoh had an unfinished tomb, but it was decoy.
+1. **2637–2613 BCE** Pharaoh Huni the False Pyramid. The first and last step pyramid after Djoser. - 213 (ruined) - 301 ft tall. Built by last Pharaoh of the 3rd dynasty: Huni.  But Sneferu was behind the idea.
 
 #### 4th Dynasty (Traditional Pyramids)
-1. **2600 BC** [Sneferu](https://en.wikipedia.org/wiki/Sneferu) - Egypt's greatest pyramid builder. Build monements after Djoser in Dahshur.  The [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).  Would have been taller than pyramids of Giza.  The bent pryamid was built on sandy ground and began to crack - it had to be abandoned.
-1. **2600+ BCE** [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid): 45 degrees - the same as the Bent Pyramid's bent part - (344 ft). Rooms inside resemble a double pyramid to support - increase changes to go to haven. 17 years from the bricks!
+1. **2600 BC** [Sneferu](https://en.wikipedia.org/wiki/Sneferu) - Egypt's greatest pyramid builder. Inovator & and the circle! Build monements after Djoser in Dahshur.
+  * [Meidum](https://en.wikipedia.org/wiki/Meidum) Pyramid - more of a tower then pyramid.  In the city of Meidum
+  * The [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).  Would have been taller than pyramids of Giza.  The bent pryamid was built on sandy ground and began to crack - it had to be abandoned.
+  * **2600+ BCE** [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid): 45 degrees - the same as the Bent Pyramid's bent part - (344 ft). Rooms inside resemble a double pyramid to support - increase changes to go to haven. 17 years from the bricks!
 1. **2580–2560 BCE** [Khufu](https://en.wikipedia.org/wiki/Khufu) [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza) - 455 ft
 1. **2570 BCE** [Pyramid of Khafre](https://en.wikipedia.org/wiki/Pyramid_of_Khafre) (2 feet smaller and better preserved) - causeway to the Nile: the **Sphix**
 1. Menkaure
