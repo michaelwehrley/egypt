@@ -24,6 +24,8 @@ Lecture 12: 11th & 12th Dynasty
 * Cairo
   * Narmar Palette in Cairo Museum
   * Monument of stela of Sneferu in garden and can't be missed
+  * [Hetepheres I](https://en.wikipedia.org/wiki/Hetepheres_I) wife of pharaoh Sneferu and the mother of King Khufu.
+
 * Giza
   * Pyramids of **Giza** built for [Sneferu](https://en.wikipedia.org/wiki/Sneferu)'s successors: Khufu, Khafre (2 feet smaller and better preserved), and Menkaure
   * Sphinx: 
@@ -40,6 +42,7 @@ Lecture 12: 11th & 12th Dynasty
 * Dahshur: [Sneferu](https://en.wikipedia.org/wiki/Sneferu), 2 monuments influenced by step pyramids:
   * [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).
   * [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid)
+  * [Hetepheres I](https://en.wikipedia.org/wiki/Hetepheres_I) was wife of Sneferu
 * [Meidum](https://en.wikipedia.org/wiki/Meidum)
   * False Pyramid - collapsed b/c of stone robbing
   * Last step-pyramid
@@ -160,6 +163,7 @@ Narmar Palette lays the foundation for a god-king; i.e., a pharaoh.
 
 #### 4th Dynasty (Traditional Pyramids)
 1. **2600 BC** [Sneferu](https://en.wikipedia.org/wiki/Sneferu) - Egypt's greatest pyramid builder. Inovator & and the circle! Build monements after Djoser in Dahshur.
+  * [Hetepheres I](https://en.wikipedia.org/wiki/Hetepheres_I) was wife of Sneferu and mother of [Khufu](https://en.wikipedia.org/wiki/Khufu).
   * [Meidum](https://en.wikipedia.org/wiki/Meidum) Pyramid - more of a tower then pyramid.  In the city of Meidum
   * The [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).  Would have been taller than pyramids of Giza.  The bent pryamid was built on sandy ground and began to crack - it had to be abandoned.
   * **2600+ BCE** [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid): 45 degrees - the same as the Bent Pyramid's bent part - (344 ft). Rooms inside resemble a double pyramid to support - increase changes to go to haven. 17 years from the bricks!
@@ -198,7 +202,7 @@ Forgotten Pyramids
 ### Middle Kingdom
 
 #### 11th Dynasty (`-Mentu` & `-Hotep`) Continued...
-* `-Mentu` (God of War) & `-Hotep` (to be pleased). This family knows you have to be tough to unify (Amunhotep: `Amun` is `pleased`)
+* `-Mentu` (God of War) & `-Hotep` (to be pleased). This family knows you have to be tough to unify (**Amunhotep**: `Amun` is `pleased`)
 * [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II): **Nebhepetre Mentuhotep II** unified all Egypt c. 2015 BC, Middle Kingdom begins. 2060–2010 BC. Temple is at [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari) (the first there; later Hatshepsut’s Temple is built there)
 * Simple coffin - wooden box - **BUT** with spells.  The priests are so much more powerful - remember Unas w/ the Pyramid Texts.  After the raidings of pyramids, the common person now wants coffin texts b/c they don't have pyramids. The body shaped coffin is of the New Kingdom.
 * In 1911 [Winlock](https://en.wikipedia.org/wiki/Herbert_Eustis_Winlock)  began excavating the mortuary complex of the 11th Dynasty pharaoh Mentuhotep II (2010–1998 B.C.) at Deir el-Bahri in the Valley of the Kings, where he discovered the bodies of 60 soldiers slain in battle and buried in linen shrouds decorated with the cartouche of Pharaoh [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II). On March 17, 1920 Winlock discovered the tomb of Mentuhotep II's prime minister [Meketre](https://www.metmuseum.org/met-around-the-world/?page=10157), which contains a model bakery-brewery.  There is a shoulder in the NYC Metropolitan of art.
