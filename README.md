@@ -12,7 +12,10 @@ Lecture 5: * Rosetta Stone & Hieroglyphs
 Lecture 6: 1st king & Narmer Palette - in Egyptian Museum, Cairo
 Lecture 7: Rise of the Old Kingdom (i.e., Memphis). Saqqara v. Abydos; [Imhotep](https://en.wikipedia.org/wiki/Imhotep) architect w/ first step pyramid for Djoser 3rd dynasty. Build false doors imitate what they know out of store. [Heb-sed festival](https://en.wikipedia.org/wiki/Sed_festival) to show the pharaoh was still young.  Court yard is here & southern burials
 Lecture 8: [Sneferu](https://en.wikipedia.org/wiki/Sneferu) taught Egypt how to build pyramids: Meidum (causeway to bring up pharaoh from the temple), Bent Pyramid @ Dashur, Red Pyramid @ Dashur.
-Lecture 9: Pyramids of Giza.
+Lecture 9: Pyramids of Giza [Khufu](https://en.wikipedia.org/wiki/Khufu).
+Lecture 10: End of the Old Kingdom - downhill - and the birth of [sun temples](https://en.wikipedia.org/wiki/Egyptian_sun_temple) near Saqqara by the 5th dynasty; 6th Dynasty (Teti & Mereruka's mastaba)
+Lecture 11: First Intermediate Period
+Lecture 12: 11th & 12th Dynasty
 
 ## Sites to Visit (north to south)
 * Buto: Lower Egypt
@@ -31,6 +34,7 @@ Lecture 9: Pyramids of Giza.
   * [Gisr el-Mudir / The Enclosure of the Boss](https://en.wikipedia.org/wiki/Gisr_el-Mudir): pre-dates Pyramid if Djoser and making it oldest monument erected entirely with stone. 
   * [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser): first step pyramid & first tall structure built in **stone** (no longer of mud-brick and wood). [Imhotep](https://en.wikipedia.org/wiki/Imhotep), Djoser's pyramid architect, was of such importance and fame that he was honoured as a saint. Imhotep temple was never found, but associated with medicine and birds.
   * [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas): Virtual guide to immortality: spells and formulas; get rid of sin. Don't be fooled by the mound/ruin.
+  * The mastaba of [Mereruka](https://en.wikipedia.org/wiki/Mereruka) (vizier of Teti of 6th Dynasty) is the largest and most elaborate of all the non-royal tombs in Saqqara with 33 rooms or chambers in total
 * Memphis: unified capital. Memphis (12 mi south of Giza and was strategic) was believed to be under the protection of the god Ptah, the patron of craftsmen. Its great temple, Hut-ka-Ptah (meaning "Enclosure of the ka of Ptah"), was one of the most prominent structures in the city. The name of this temple, rendered in Greek as Aί-γυ-πτoς (Ai-gy-ptos) by the historian Manetho, is believed to be the etymological origin of the modern English name Egypt.
 * Meidum 
 * Dahshur: [Sneferu](https://en.wikipedia.org/wiki/Sneferu), 2 monuments influenced by step pyramids:
@@ -78,7 +82,7 @@ Pre-History (i.e., before writing) is relative: 700,000 - 7,000 BCE for Egypt
 * Assyrian 2500 - 609 BC
 
 ## Gods and Godesses
-[Osiris myth](https://en.wikipedia.org/wiki/Osiris_myth)
+[Osiris myth](https://en.wikipedia.org/wiki/Osiris_myth) Osiris is the first to rise from the dead.
 ![15 Major Ancient Egyptian Gods And Godesses](/images/15-ancient-egyptian-gods-facts-min.jpg)
 * [Horus](https://en.wikipedia.org/wiki/Horus)/Falcon on Earth (Narmar Pallet). Horus was the son of Osiris who revenged the death of Isis against Set. GOD-KING! (Plato: it is the best to have a philosopher king)
 * July: The gods around Aswan turn the Nile river red (setiment) and then green (vegitation)
@@ -134,6 +138,8 @@ Pharaohs needed to talk to the gods in order to keep **ma'at** (i.e., order).  T
 * Pyramds are the vehicle to resurrection and immortality.
 * Pyramids of Giza are not the only pyramids.  Pyramids dot the Nile river all the way down to [Aswan](https://en.wikipedia.org/wiki/Aswan).
 
+[List of Pharaohs](https://en.wikipedia.org/wiki/List_of_pharaohs)
+
 ### Early Dynastic Period
 
 #### 1st Dynasty
@@ -155,18 +161,33 @@ Narmar Palette lays the foundation for a god-king; i.e., a pharaoh.
   * [Meidum](https://en.wikipedia.org/wiki/Meidum) Pyramid - more of a tower then pyramid.  In the city of Meidum
   * The [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).  Would have been taller than pyramids of Giza.  The bent pryamid was built on sandy ground and began to crack - it had to be abandoned.
   * **2600+ BCE** [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid): 45 degrees - the same as the Bent Pyramid's bent part - (344 ft). Rooms inside resemble a double pyramid to support - increase changes to go to haven. 17 years from the bricks!
-1. **2580–2560 BCE** [Khufu](https://en.wikipedia.org/wiki/Khufu) [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza) - 455 ft
-1. **2570 BCE** [Pyramid of Khafre](https://en.wikipedia.org/wiki/Pyramid_of_Khafre) (2 feet smaller and better preserved) - causeway to the Nile: the **Sphix**
-1. Menkaure
+1. **2580–2560 BCE** [Khufu](https://en.wikipedia.org/wiki/Khufu) [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza) - 455 ft.  During **Inundation** - the flooding is when the farmers worked on the pyramids.
+1. **2570 BCE** [Pyramid of Khafre](https://en.wikipedia.org/wiki/Pyramid_of_Khafre) (2 feet smaller and better preserved) - causeway to the Nile: the **Sphix**. A bit of limestone is still at the top.
+1. Menkaure: 3rd and smallest pyramid.
+1. Shepseskaf: moves awyay from the Giza plateau.  Goes back to Saqqara and builds a mastaba: Owner of the Mastabat el-Fara'un.
 
 Forgotten Pyramids
 
-#### 5th Dynasty (Time not so kind to these pyramids)
-1. [Neferefre](https://en.wikipedia.org/wiki/Neferefre): incomplete pyramid but a vast amount of 5th dynasty items. If tomb found, he would be the oldest intact mummy ever found.  Details records of 200 years of the king's cult festivals and honoring rituals
+#### 5th Dynasty (Time not so kind to these pyramids - Sun king and Unas!)
+1. [Westcar_Papyrus](https://en.wikipedia.org/wiki/Westcar_Papyrus) tells the story of the beginning of dynasty 5.  Magician talks about the birth of the dynasty. **Solar kings - solar temple!**
+1. [Sun Temples](https://en.wikipedia.org/wiki/Egyptian_sun_temple)
 1. **2498–2491 BCE**: [Userkaf](https://en.wikipedia.org/wiki/Userkaf). Built the "Heap of Stone" pyramid at [Saqqara](https://en.wikipedia.org/wiki/Pyramid_of_Userkaf).
-1. **2360 BCE**: [Unas](https://en.wikipedia.org/wiki/Unas). The last of pharaohs in the 5th Dynasty [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - Originally reaching 141 ft - now it is ruined.
+1. The rest of these pharaohs incorportate 'Re' into them (i.e., Sahure, Neferirkare Kakai, Neferefre)
+1. [Neferefre](https://en.wikipedia.org/wiki/Neferefre): incomplete pyramid but a vast amount of 5th dynasty items. If tomb found, he would be the oldest intact mummy ever found.  Details records of 200 years of the king's cult festivals and honoring rituals
+1. **2360 BCE**: [Unas](https://en.wikipedia.org/wiki/Unas). The last of pharaohs in the 5th Dynasty [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - Originally reaching 141 ft - now it is ruined. Pyramid Texts! So artistic and spells. They describe priests coming to power!
 
 -- Pyramids went underground except for the Kingdom of Kush in modern day Sudan. Egypt coveted the wealth of **Nubia** 1400 BCE -- [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal)
+
+#### 6th Dynasty (Teti & Mereruka)
+1. Small affairs, nothing crazy. Small pyramids.
+1. First ruler: [Teti](https://en.wikipedia.org/wiki/Teti) and noble around it is beautiful!
+  * [Mereruka](https://en.wikipedia.org/wiki/Mereruka) was one of Egypt's most powerful officials at a time when the influence of local state noblemen was increasing in wealth and power. The mastaba of Mereruka is the largest and most elaborate of all the non-royal tombs in Saqqara with 33 rooms or chambers in total.
+1. Last/nearly last rule: [Pepi II](https://en.wikipedia.org/wiki/Pepi_II_Neferkare): Possibly the longest reigning monarch of human history with 94 years on the throne. Alternatively, may have reigned "only" 64 years. Lived to be 98!
+  * Maybe he lived too long or they stopped building pyramids (that is what maybe pries said): Leading to first Intermediate period.
+
+#### First Intermediate Period
+
+#### 11th Dynasty
 
 #### 18th Dynasty (Thebes - Pyramid-shaped mountain - Valley of the Kings)
 1. **1500 BCE** [Thutmose_I](https://en.wikipedia.org/wiki/Thutmose_I) designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni)
@@ -180,7 +201,6 @@ Forgotten Pyramids
 ## Manetho
 
 Manetho was an Egyptian chronologist.  Came up with 30 dynasties
-
 
 1. Earliest known temple in is in 
 1. Spirits of the dead ruled before.
