@@ -69,7 +69,8 @@ Pre-History (i.e., before writing) is relative: 700,000 - 7,000 BCE for Egypt
 * Assyrian 2500 - 609 BC
 
 ## Gods and Godesses
-Lecture Chapter 3
+![15 Major Ancient Egyptian Gods And Godesses](/images/15-ancient-egyptian-gods-facts-min.jpg)
+
 
 ### Myth of Osiris
 * Born in Egypt - never conquer
