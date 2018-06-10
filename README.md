@@ -4,6 +4,13 @@ Cleopatra who ruled Egypt in the first centry BCE, is closer to us today, then t
 
 When Herodotus visited Egypt, the Egyptians already consider themselves ancient - they had their own archeologists!
 
+Lecture 1: Intro
+Lecture 2: 700,000 - 3,200 years
+Lecture 3: 
+Lecture 4: * Napolean
+Lecture 5: * Rosetta Stone & Hieroglyphs
+Lecture 6: Narmer Palette - in Egyptian Museum, Cairo
+
 ## Sites to Visit (north to south)
 * Buto: Lower Egypt
 * Memphis: unified capital
@@ -62,6 +69,7 @@ Pre-History (i.e., before writing) is relative: 700,000 - 7,000 BCE for Egypt
 * Assyrian 2500 - 609 BC
 
 ## Gods and Godesses
+Lecture Chapter 3
 
 ### Myth of Osiris
 * Born in Egypt - never conquer
@@ -108,13 +116,15 @@ Pharaohs needed to talk to the gods in order to keep **ma'at** (i.e., order).  T
 ![Narmer Palette](/images/narmer_palette.jpg)
 
 ## Pharaoh's Quest for Eternity
+* Is it possible that the crown is passed from pharaoh to pharaoh - not found
 * Pyramds are the vehicle to resurrection and immortality.
 * Pyramids of Giza are not the only pyramids.  Pyramids dot the Nile river all the way down to [Aswan](https://en.wikipedia.org/wiki/Aswan).
 
 ### Early Dynastic Period
 
 #### 1st Dynasty
-* **3100 BCE** King Narmer
+* **3100 BCE** King Narmer & [Narmer Palette](https://en.wikipedia.org/wiki/Narmer_Palette) - first historical document in the world - In Cairo Museum. Palette was likely a cosmetic palette to anoint god. Narmer Palette displays art that will the consistent throughout history. Smitting is in this pallete for centuries (i.e., **Ramesses II** **smiting** a Nubian:
+![Ramesses-II-smiting-nubian](/images/Ramesses-II-smiting-nubian.jpg)
 
 #### 2nd Dynasty (Walls, Tombs, and Mastabas)
 1. **2780 BCE** King Khasekhemwy. Last king of the 2nd dynasty and known for the [Tomb](https://www.nytimes.com/2007/01/09/science/09egypt.html) of [Khasekhemwy](https://en.wikipedia.org/wiki/Khasekhemwy) buried near **Abydos**.  He undertook considerable building projects upon the reunification of Egypt after a period of trouble. [Built buildings out of **brick**! Recessed walls make it look beautiful with the sun moving across the sky](https://www.nytimes.com/2007/01/09/science/09egypt.html)!
