@@ -191,7 +191,7 @@ Forgotten Pyramids
 1. Last/nearly last rule: [Pepi II](https://en.wikipedia.org/wiki/Pepi_II_Neferkare): Possibly the longest reigning monarch of human history with 94 years on the throne. Alternatively, may have reigned "only" 64 years. Lived to be 98!
   * Maybe he lived too long or they stopped building pyramids (that is what maybe pries said): Leading to first Intermediate period.
 
-#### First Intermediate Period
+### First Intermediate Period
 
 #### 11th Dynasty (`-Intef`)
 * Thebian monarchs trying to gain power & trying to **unify** upper and lower.
@@ -199,13 +199,23 @@ Forgotten Pyramids
 * Wahankh Intef II was the second and conquered Abydos and its nome.  He loved **dogs**.
 * Nakhtnebtepnefer. `-Nefer` means **beautiful**.  Think of [Nefertari](https://en.wikipedia.org/wiki/Nefertari). Nakhtnebtepnefer is **actually** fighting and unifying.
 
-### Middle Kingdom
+### Middle Kingdom (11th & 12th Dynasty & Deir el-Bahari)
 
 #### 11th Dynasty (`-Mentu` & `-Hotep`) Continued...
 * `-Mentu` (God of War) & `-Hotep` (to be pleased). This family knows you have to be tough to unify (**Amunhotep**: `Amun` is `pleased`)
-* [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II): **Nebhepetre Mentuhotep II** unified all Egypt c. 2015 BC, Middle Kingdom begins. 2060–2010 BC. Temple is at [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari) (the first there; later Hatshepsut’s Temple is built there)
+* The scultpures/artists at this time had lost their skills becuase of the 1st Intermediate Period, but the `-Menut` are pulling it together.
+* [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II): **Nebhepetre Mentuhotep II** unified all Egypt c. 2015 BC, Middle Kingdom begins. 2060–2010 BC. Temple is at [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari) (the first there; later Hatshepsut’s Temple is built there).  Tomb is nice, but the artists have to get their skills back.
 * Simple coffin - wooden box - **BUT** with spells.  The priests are so much more powerful - remember Unas w/ the Pyramid Texts.  After the raidings of pyramids, the common person now wants coffin texts b/c they don't have pyramids. The body shaped coffin is of the New Kingdom.
-* In 1911 [Winlock](https://en.wikipedia.org/wiki/Herbert_Eustis_Winlock)  began excavating the mortuary complex of the 11th Dynasty pharaoh Mentuhotep II (2010–1998 B.C.) at Deir el-Bahri in the Valley of the Kings, where he discovered the bodies of 60 soldiers slain in battle and buried in linen shrouds decorated with the cartouche of Pharaoh [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II). On March 17, 1920 Winlock discovered the tomb of Mentuhotep II's prime minister [Meketre](https://www.metmuseum.org/met-around-the-world/?page=10157), which contains a model bakery-brewery.  There is a shoulder in the NYC Metropolitan of art.
+* In 1911 [Winlock](https://en.wikipedia.org/wiki/Herbert_Eustis_Winlock)  began excavating the mortuary complex of the 11th Dynasty pharaoh Mentuhotep II (2010–1998 B.C.) at Deir el-Bahri in the Valley of the Kings, where he discovered the bodies of 60 soldiers slain in battle and buried in linen shrouds decorated with the cartouche of Pharaoh [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II). On March 17, 1920 Winlock discovered the tomb of Mentuhotep II's prime minister [Meketre](https://www.metmuseum.org/met-around-the-world/?page=10157), which contains a model bakery-brewery.  There is a shoulder in the NYC Metropolitan of art. At this time lots of the material was sent back to Metropolitan Museum of Art.
+
+#### 12th Dynasty
+
+* Amenemhat I: probably a viceroy. However, produces a legend on a papyrus. And we will have a **rebirth**. Moves the capital to show Egypt is unified.  New survey the land b/c of the inundation!  People have land!  Good old days and now he has a [pyramid](https://en.wikipedia.org/wiki/Pyramid_of_Amenemhet_I).  He is likely murdered, but he was prepared because he had his son become co-regent.
+![AmenemhetIPyramid](/images/AmenemhetIPyramid.jpg)
+
+### Second Intermediate Period (Hyksos & Joseph)
+
+### New Kingdom
 
 #### 18th Dynasty (Thebes - Pyramid-shaped mountain - Valley of the Kings)
 1. **1500 BCE** [Thutmose_I](https://en.wikipedia.org/wiki/Thutmose_I) designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni)
