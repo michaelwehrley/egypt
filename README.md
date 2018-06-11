@@ -174,10 +174,10 @@ Narmar Palette lays the foundation for a god-king; i.e., a pharaoh.
 
 Forgotten Pyramids
 
-#### 5th Dynasty (`-Re`; Time not so kind to these pyramids - Sun king and Unas!)
+#### 5th Dynasty (`-Re`; Time not so kind to these pyramids - Sun king and Userkaf!)
 1. [Westcar_Papyrus](https://en.wikipedia.org/wiki/Westcar_Papyrus) tells the story of the beginning of dynasty 5.  Magician talks about the birth of the dynasty. **Solar kings - solar temple!**
 1. [Sun Temples](https://en.wikipedia.org/wiki/Egyptian_sun_temple)
-1. **2498–2491 BCE**: [Userkaf](https://en.wikipedia.org/wiki/Userkaf). Built the "Heap of Stone" pyramid at [Saqqara](https://en.wikipedia.org/wiki/Pyramid_of_Userkaf).
+1. **2498–2491 BCE**: [Userkaf](https://en.wikipedia.org/wiki/Userkaf). Built the "Heap of Stone" pyramid at [Saqqara](https://en.wikipedia.org/wiki/Pyramid_of_Userkaf). First Solar pyramid.
 1. The rest of these pharaohs incorportate 'Re' into them (i.e., Sahure, Neferirkare Kakai, Neferefre)
 1. [Neferefre](https://en.wikipedia.org/wiki/Neferefre): incomplete pyramid but a vast amount of 5th dynasty items. If tomb found, he would be the oldest intact mummy ever found.  Details records of 200 years of the king's cult festivals and honoring rituals
 1. **2360 BCE**: [Unas](https://en.wikipedia.org/wiki/Unas). The last of pharaohs in the 5th Dynasty [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - Originally reaching 141 ft - now it is ruined. Pyramid Texts! So artistic and spells. They describe priests coming to power!
