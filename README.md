@@ -16,6 +16,8 @@ Lecture 9: Pyramids of Giza [Khufu](https://en.wikipedia.org/wiki/Khufu).
 Lecture 10: End of the Old Kingdom - downhill - and the birth of [sun temples](https://en.wikipedia.org/wiki/Egyptian_sun_temple) near Saqqara by the 5th dynasty; 6th Dynasty (Teti & Mereruka's mastaba)
 Lecture 11: First Intermediate Period
 Lecture 12: 11th & 12th Dynasty
+Lecture 13: Amenemhet I, Senusret I, Amenemhet II, Senusret II
+Lecture 14:
 
 ## Sites to Visit (north to south)
 * Buto: Lower Egypt
@@ -84,7 +86,7 @@ Pre-History (i.e., before writing) is relative: 700,000 - 7,000 BCE for Egypt
 * Rome: Founding of Rome 753 BC
 * Assyrian 2500 - 609 BC
 
-## Gods and Godesses
+## Gods and Godesses (Pharaoh is Horus on Earth)
 [Osiris myth](https://en.wikipedia.org/wiki/Osiris_myth) Osiris is the first to rise from the dead.
 ![15 Major Ancient Egyptian Gods And Godesses](/images/15-ancient-egyptian-gods-facts-min.jpg)
 * [Horus](https://en.wikipedia.org/wiki/Horus)/Falcon on Earth (Narmar Pallet). Horus was the son of Osiris who revenged the death of Isis against Set. GOD-KING! (Plato: it is the best to have a philosopher king)
@@ -210,8 +212,14 @@ Forgotten Pyramids
 
 #### 12th Dynasty
 
-* Amenemhat I: probably a viceroy. However, produces a legend on a papyrus. And we will have a **rebirth**. Moves the capital to show Egypt is unified.  New survey the land b/c of the inundation!  People have land!  Good old days and now he has a [pyramid](https://en.wikipedia.org/wiki/Pyramid_of_Amenemhet_I).  He is likely murdered, but he was prepared because he had his son become co-regent.
+* [Amenemhet I](https://en.wikipedia.org/wiki/Amenemhat_I) I: probably a viceroy. However, produces a legend on a papyrus. And we will have a **rebirth**. Moves the capital to show Egypt is unified.  New survey the land b/c of the inundation!  People have land!  Good old days and now he has a [pyramid](https://en.wikipedia.org/wiki/Pyramid_of_Amenemhet_I).  He is likely murdered, but he was prepared because he had his son become co-regent. Leaves note that gives advice to son to be cautious. This family used media well in order to say about how is father was "almost killed".  Could be murdered b/c he was God.
 ![AmenemhetIPyramid](/images/AmenemhetIPyramid.jpg)
+
+* [Senusret I](https://en.wikipedia.org/wiki/Senusret_I) son of Amenemhet. He builds forts to mind gold. He goes beyond Aswan where the boulders are build huge forts. [Buhen](https://en.wikipedia.org/wiki/Buhen) & [Semna (Nubia)](https://en.wikipedia.org/wiki/Semna_(Nubia)) made of wood and mud.  He also took son as co-regent.
+![Buhen](/images/Buhen3.jpg)
+![Semna](/images/Semna-vue.jpg)
+
+Then Amenemhet II (goes to Punt) and then Senusret II
 
 ### Second Intermediate Period (Hyksos & Joseph)
 
