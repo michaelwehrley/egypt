@@ -219,7 +219,13 @@ Forgotten Pyramids
 ![Buhen](/images/Buhen3.jpg)
 ![Semna](/images/Semna-vue.jpg)
 
-Then Amenemhet II (goes to Punt) and then Senusret II
+Then Amenemhet II (goes to Punt), Senusret II
+
+[Senusret III](https://en.wikipedia.org/wiki/Senusret_III): **Art changes!** Eyes are drooping and looks **tried**; builds pyramid near Dashur (i.e., [Sneferu](https://en.wikipedia.org/wiki/Sneferu)).
+![Senusret III](/images/SenusretIII.jpg)
+
+[Amenemhet III](https://en.wikipedia.org/wiki/Amenemhat_III): Looks like father and tired. 2 Pyramids, one again at near Dashur.
+![Amenemhet III](/images/AmenemhetIII.jpg)
 
 ### Second Intermediate Period (Hyksos & Joseph)
 
