@@ -224,8 +224,10 @@ Then Amenemhet II (goes to Punt), Senusret II
 [Senusret III](https://en.wikipedia.org/wiki/Senusret_III): **Art changes!** Eyes are drooping and looks **tried**; builds pyramid near Dashur (i.e., [Sneferu](https://en.wikipedia.org/wiki/Sneferu)).
 ![Senusret III](/images/SenusretIII.jpg)
 
-[Amenemhet III](https://en.wikipedia.org/wiki/Amenemhat_III): Looks like father and tired. 2 Pyramids, one again at near Dashur.
+[Amenemhet III](https://en.wikipedia.org/wiki/Amenemhat_III): Looks like father and tired. 2 Pyramids, one again at near Dashur. He changes his entrance likely b/c of tomb robbing - nearly worked. [Flinders Petrie](https://en.wikipedia.org/wiki/Flinders_Petrie) couldn't find the entrance - went from top down.
 ![Amenemhet III](/images/AmenemhetIII.jpg)
+
+Amenemhet IV & then Queen - troubled times ahead...Hyksos!
 
 ### Second Intermediate Period (Hyksos & Joseph)
 
