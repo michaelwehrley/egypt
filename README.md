@@ -17,7 +17,9 @@ Lecture 10: End of the Old Kingdom - downhill - and the birth of [sun temples](h
 Lecture 11: First Intermediate Period
 Lecture 12: 11th & 12th Dynasty
 Lecture 13: Amenemhet I, Senusret I, Amenemhet II, Senusret II
-Lecture 14:
+Lecture 14: 
+
+Lecture 32: Exodus
 
 ## Sites to Visit (north to south)
 * Buto: Lower Egypt
