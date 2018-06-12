@@ -183,6 +183,7 @@ Forgotten Pyramids
 1. The rest of these pharaohs incorportate 'Re' into them (i.e., Sahure, Neferirkare Kakai, Neferefre)
 1. [Neferefre](https://en.wikipedia.org/wiki/Neferefre): incomplete pyramid but a vast amount of 5th dynasty items. If tomb found, he would be the oldest intact mummy ever found.  Details records of 200 years of the king's cult festivals and honoring rituals
 1. **2360 BCE**: [Unas](https://en.wikipedia.org/wiki/Unas). The last of pharaohs in the 5th Dynasty [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas) - Originally reaching 141 ft - now it is ruined. Pyramid Texts! So artistic and spells. They describe priests coming to power!
+![PyramidTexts](/images/PyramidTexts.jpg)
 
 -- Pyramids went underground except for the Kingdom of Kush in modern day Sudan. Egypt coveted the wealth of **Nubia** 1400 BCE -- [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal)
 
