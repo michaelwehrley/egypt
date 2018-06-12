@@ -17,9 +17,12 @@ Lecture 10: End of the Old Kingdom - downhill - and the birth of [sun temples](h
 Lecture 11: First Intermediate Period
 Lecture 12: 11th & 12th Dynasty
 Lecture 13: Amenemhet I, Senusret I, Amenemhet II, Senusret II
-Lecture 14: 
+Lecture 14: Hyksos and Expulsion of the Hyksos by [Seqenenre Tao](https://en.wikipedia.org/wiki/Seqenenre_Tao)
+Lecture 15: Joseph story (Genesis: 37-50)
+Lecture 16: Beginning of the New Kingdom - the 18th Dynasty
 
 Lecture 32: Exodus
+Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
 
 ## Sites to Visit (north to south)
 * Buto: Lower Egypt
@@ -29,6 +32,7 @@ Lecture 32: Exodus
   * Narmar Palette in Cairo Museum
   * Monument of stela of Sneferu in garden and can't be missed
   * [Hetepheres I](https://en.wikipedia.org/wiki/Hetepheres_I) wife of pharaoh Sneferu and the mother of King Khufu.
+  * [Seqenenre Tao](https://en.wikipedia.org/wiki/Seqenenre_Tao) tomb - who kicks out the Hyksos - [Mummified head of Seqenenre depicting his battlewounds](https://en.wikipedia.org/wiki/Seqenenre_Tao#Mummy) in Cairo museum. Axe wound - Hyksos are known for their axes.
 
 * Giza
   * Pyramids of **Giza** built for [Sneferu](https://en.wikipedia.org/wiki/Sneferu)'s successors: Khufu, Khafre (2 feet smaller and better preserved), and Menkaure
@@ -189,14 +193,14 @@ Forgotten Pyramids
 
 -- Pyramids went underground except for the Kingdom of Kush in modern day Sudan. Egypt coveted the wealth of **Nubia** 1400 BCE -- [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal)
 
-#### 6th Dynasty (Teti & Mereruka)
+#### 6th Dynasty (Teti & Mereruka; 2345 to 2181 BC)
 1. Small affairs, nothing crazy. Small pyramids.
 1. First ruler: [Teti](https://en.wikipedia.org/wiki/Teti) and noble around it is beautiful!
   * [Mereruka](https://en.wikipedia.org/wiki/Mereruka) was one of Egypt's most powerful officials at a time when the influence of local state noblemen was increasing in wealth and power. The mastaba of Mereruka is the largest and most elaborate of all the non-royal tombs in Saqqara with 33 rooms or chambers in total.
 1. Last/nearly last rule: [Pepi II](https://en.wikipedia.org/wiki/Pepi_II_Neferkare): Possibly the longest reigning monarch of human history with 94 years on the throne. Alternatively, may have reigned "only" 64 years. Lived to be 98!
   * Maybe he lived too long or they stopped building pyramids (that is what maybe pries said): Leading to first Intermediate period.
 
-### First Intermediate Period
+### First Intermediate Period (2181–2060 BC)
 
 #### 11th Dynasty (`-Intef`)
 * Thebian monarchs trying to gain power & trying to **unify** upper and lower.
@@ -213,7 +217,7 @@ Forgotten Pyramids
 * Simple coffin - wooden box - **BUT** with spells.  The priests are so much more powerful - remember Unas w/ the Pyramid Texts.  After the raidings of pyramids, the common person now wants coffin texts b/c they don't have pyramids. The body shaped coffin is of the New Kingdom.
 * In 1911 [Winlock](https://en.wikipedia.org/wiki/Herbert_Eustis_Winlock)  began excavating the mortuary complex of the 11th Dynasty pharaoh Mentuhotep II (2010–1998 B.C.) at Deir el-Bahri in the Valley of the Kings, where he discovered the bodies of 60 soldiers slain in battle and buried in linen shrouds decorated with the cartouche of Pharaoh [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II). On March 17, 1920 Winlock discovered the tomb of Mentuhotep II's prime minister [Meketre](https://www.metmuseum.org/met-around-the-world/?page=10157), which contains a model bakery-brewery.  There is a shoulder in the NYC Metropolitan of art. At this time lots of the material was sent back to Metropolitan Museum of Art.
 
-#### 12th Dynasty
+#### 12th Dynasty (1991 to 1802 BC)
 
 * [Amenemhet I](https://en.wikipedia.org/wiki/Amenemhat_I) I: probably a viceroy. However, produces a legend on a papyrus. And we will have a **rebirth**. Moves the capital to show Egypt is unified.  New survey the land b/c of the inundation!  People have land!  Good old days and now he has a [pyramid](https://en.wikipedia.org/wiki/Pyramid_of_Amenemhet_I).  He is likely murdered, but he was prepared because he had his son become co-regent. Leaves note that gives advice to son to be cautious. This family used media well in order to say about how is father was "almost killed".  Could be murdered b/c he was God.
 ![AmenemhetIPyramid](/images/AmenemhetIPyramid.jpg)
@@ -232,13 +236,39 @@ Then Amenemhet II (goes to Punt), Senusret II
 
 Amenemhet IV & then Queen - troubled times ahead...Hyksos!
 
-### Second Intermediate Period (Hyksos & Joseph)
+### Second Intermediate Period (Hyksos & Joseph; 1802–1550 BC)
+
+* 13th and 14th both ruling at the same time.
+
+#### 13th Dynasty (1802 to around 1649 BC)
+
+* Not a complete disaster, but the begining of the end. For example, they build pyramids at Dashur and Saqqara.
+
+#### 14th Dynasty
+
+* Ruling from the **delta**! Good for military advantage. Hard to excavate there.
+
+#### 15th Dynasty
+
+High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People from the fertile crescent who are semites. Capital is at [Avaris](https://en.wikipedia.org/wiki/Avaris) in the Delta and worshiped Seth.
+
+#### 16th Dynasty
+
+* Not too much here.
+
+#### 17th Dynasty: Expulsion of the Hyksos (1650 to 1550 BC)
+
+* Sends letter (papyrus) from Delta to Thebian prince [Seqenenre Tao](https://en.wikipedia.org/wiki/Seqenenre_Tao) (1558–1554 BC) about how the Seqenenre_Tao needs to quite the hippos in the Hyksos's backyard. Seqenenre Tao marches to the delta to defeat them but is killed in battle.
+* [Kamose](https://en.wikipedia.org/wiki/Kamose) (1554–1549 BC): takes over and does a number on them, but doesn't provide the last blow.
+* [Ahmose I](https://en.wikipedia.org/wiki/Ahmose_I) finally drove the Hyksos out.
+* This dynasty eventually drove the Hyksos back into Asia under Seqenenre Tao, Kamose and finally Ahmose, first pharaoh of the New Kingdom.
 
 ### New Kingdom
 
 #### 18th Dynasty (Thebes - Pyramid-shaped mountain - Valley of the Kings)
-1. **1500 BCE** [Thutmose_I](https://en.wikipedia.org/wiki/Thutmose_I) designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni)
-1. **1500 BCE** [Thutmose_III](https://en.wikipedia.org/wiki/Thutmose_III) Conquered Nubia (west Nile) and the Kingdom of Kush (East Nile).  They were the the gate keepers to the heart of Africa.
+1. [Ahmose I](https://en.wikipedia.org/wiki/Ahmose_I) after kicking out the Hyksos starts the 18th Dynasty.
+1. **1500 BCE** [Thutmose I](https://en.wikipedia.org/wiki/Thutmose_I) designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni)
+1. **1500 BCE** [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III) Conquered Nubia (west Nile) and the Kingdom of Kush (East Nile).  They were the the gate keepers to the heart of Africa.
 
 1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt.  Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
 
