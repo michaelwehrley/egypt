@@ -33,6 +33,8 @@ Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
   * Monument of stela of Sneferu in garden and can't be missed
   * [Hetepheres I](https://en.wikipedia.org/wiki/Hetepheres_I) wife of pharaoh Sneferu and the mother of King Khufu.
   * [Seqenenre Tao](https://en.wikipedia.org/wiki/Seqenenre_Tao) tomb - who kicks out the Hyksos - [Mummified head of Seqenenre depicting his battlewounds](https://en.wikipedia.org/wiki/Seqenenre_Tao#Mummy) in Cairo museum. Axe wound - Hyksos are known for their axes.
+  * Ahmose?
+  * Hatshepsut; 
 
 * Giza
   * Pyramids of **Giza** built for [Sneferu](https://en.wikipedia.org/wiki/Sneferu)'s successors: Khufu, Khafre (2 feet smaller and better preserved), and Menkaure
@@ -46,7 +48,6 @@ Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
   * [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas): Virtual guide to immortality: spells and formulas; get rid of sin. Don't be fooled by the mound/ruin.
   * The mastaba of [Mereruka](https://en.wikipedia.org/wiki/Mereruka) (vizier of Teti of 6th Dynasty) is the largest and most elaborate of all the non-royal tombs in Saqqara with 33 rooms or chambers in total
 * Memphis: unified capital. Memphis (12 mi south of Giza and was strategic) was believed to be under the protection of the god Ptah, the patron of craftsmen. Its great temple, Hut-ka-Ptah (meaning "Enclosure of the ka of Ptah"), was one of the most prominent structures in the city. The name of this temple, rendered in Greek as Aί-γυ-πτoς (Ai-gy-ptos) by the historian Manetho, is believed to be the etymological origin of the modern English name Egypt.
-* Meidum 
 * Dahshur: [Sneferu](https://en.wikipedia.org/wiki/Sneferu), 2 monuments influenced by step pyramids:
   * [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).
   * [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid)
@@ -250,7 +251,7 @@ Amenemhet IV & then Queen - troubled times ahead...Hyksos!
 
 #### 15th Dynasty
 
-High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People from the fertile crescent who are semites. Capital is at [Avaris](https://en.wikipedia.org/wiki/Avaris) in the Delta and worshiped Seth.
+High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People from the fertile crescent who are semites. Joseph from the bible - a dream interpreter. Interpreting dreams is popular in Egyptian society at the time.  Capital is at [Avaris](https://en.wikipedia.org/wiki/Avaris) in the Delta and worshiped Seth.
 
 #### 16th Dynasty
 
@@ -263,17 +264,25 @@ High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People fr
 * [Ahmose I](https://en.wikipedia.org/wiki/Ahmose_I) finally drove the Hyksos out.
 * This dynasty eventually drove the Hyksos back into Asia under Seqenenre Tao, Kamose and finally Ahmose, first pharaoh of the New Kingdom.
 
-### New Kingdom
+### New Kingdom (i.e., Age of Gold)
 
-#### 18th Dynasty (Thebes - Pyramid-shaped mountain - Valley of the Kings)
-1. [Ahmose I](https://en.wikipedia.org/wiki/Ahmose_I) after kicking out the Hyksos starts the 18th Dynasty.
-1. **1500 BCE** [Thutmose I](https://en.wikipedia.org/wiki/Thutmose_I) designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni)
-1. **1500 BCE** [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III) Conquered Nubia (west Nile) and the Kingdom of Kush (East Nile).  They were the the gate keepers to the heart of Africa.
+#### 18th Dynasty (Thebes [Karnak Temple] - Pyramid-shaped mountain - Valley of the Kings)
 
-1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt.  Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
+1. **1557** [Ahmose I](https://en.wikipedia.org/wiki/Ahmose_I) is from the 17th dynasty but then kicks out the Hyksos starts the 18th Dynasty. Military man and sets the tone.
 
-## Age of Gold
-1. **1327 BCE** Death of Tutankhamun.  The mask that covers his face is considered the most beautiful works of art ever crafted in gold.
+1. **1541–1520** [Amenhotep I](https://en.wikipedia.org/wiki/Amenhotep_I). His name is Ahunhoptem: `-Amun` - "To please the God `Amun`" (`Amun` is the main god of Thebes). **Honors Seqenenre's mother and wife!** HUGE! He is setting a tradition of Queens. Gives his **wife** a title of **The God's Wife**. He also goes to Nubia to conquer their well known **archers** and decimated them. **Separates** his tomb and mortuary (offerings) temple.  He doesn't want people who come to see his tomb.  So go to my temple, bot tomb. Left no sons.
+
+1. **1520–1492 BCE** [Thutmose I](https://en.wikipedia.org/wiki/Thutmose_I). `Thut` is the God of Writing & `Moses` is born so it means The God of Writing is born. Note: `Moses` is an Egyptian name! He married the right woman - married the daughter of Ahmose. Went further down the Nile pass the cateracs (4th caterack) - the rocks! So hard for them to navigate and they are so bad in the water that they usually go at night in May or June when it is low and at night in full moon.  He expanded Egypt's territorial extent during his reign by conquering Nubia and the "sand dwellers".  He also goes north into Iraq.  **First** king to be burried in the **Valley of the Kings**.  His tomb was designed by architect [Ineni](https://en.wikipedia.org/wiki/Ineni) - no one see or hear. West valley and where he didn't think people would visit or settle; and one entrance to the valley. Also erects largest obeliskqs at Karnak Temple. His daughter is **[Hatshepsut](/https://en.wikipedia.org/wiki/Hatshepsut)** the only royal one left when Thutmose I dies!
+
+1. **1492–1479** [Thutmose II](https://en.wikipedia.org/wiki/Thutmose_II) Son of Thutmose I is a half-brother of Hatshepsut. Grandson of Amenhotep I through his mother, Mutnofret. He becomes pharaoh by marrying Hatshepsut - "long" marriage.
+
+* **1479–1458** [Queen Hatshepsut](/https://en.wikipedia.org/wiki/Hatshepsut). Temple @ [Deir_el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari).  Step-son and nephew was [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III), but he was too young so she took over.  Builds temple @ [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari). She does this b/c [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II) built his temple here and hew as the great unifier of Egypt after the first Intermediate Period. The hieroglyphic describe that later she declared herself king. However, her name was carved out by [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III). The walls depict: traveling to Punt. Thebes to Red Sea to the south to bring back giraffes. The walls depict first accurate images of sub-sahara Africa; and bringing back Frankensense and Mur PLANTS.  The walls describe her devine birth: The God Amun (i.e., the hidden one) descized as her father, Thutmose I, visits her mother and the result is that her mother becomes pregnant. 
+
+1. **1500 BCE** Thutmose II has a son with a different mother: [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III) and decides to have him marry Hatshepsut - his **step-mom** & **aunt**. Son of Thutmose II. May have ruled jointly with Hatshepsut, his aunt and step-mother, during the early part of her reign. Famous for his territorial expansion into Levant and Nubia (west Nile) and the Kingdom of Kush (East Nile - the gate keepers to the heart of Africa. Under his reign, the Ancient Egyptian Empire was at its greatest extent. Ruled during the height of Egypt's Power. Late in his reign, he obliterated Hatshepsut's name and image from temples and monuments.
+
+1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt. Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
+
+1. **1327 BCE** Death of Tutankhamun. The mask that covers his face is considered the most beautiful works of art ever crafted in gold.
 
 ## Manetho
 
