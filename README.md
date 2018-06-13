@@ -82,8 +82,10 @@ Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
 * [Thebes/Luxor]
   * **1500 BCE**
   * Valley of the Kings: Hatshepsut tomb is there! 2 tombs there - father and her; not Thutmose II.
-  * Karnak Temple has the tallest obelisks created by Hatshepsut.
-  * Karnak Temple: Red Chapel shows her self next Thutmose III.
+  * [Karnak Temple Complex/Karnataka](https://en.wikipedia.org/wiki/Karnak): Red Chapel shows her self next Thutmose III. Karnak Temple has the tallest obelisks created by Hatshepsut. A temply **complex**.  The is where the God Amun-Re lived. Precinct of Amun-Ra only, because this is the only part most visitors see. The three other parts, the Precinct of Mut, the Precinct of Montu, and the dismantled Temple of Amenhotep IV (Akhenaten) - deliberately dismantled.
+
+  ![Red Chapel](/images/RedChapel.jpg)
+
 * [Wadi]()
   * Dam (unsuccessful) at [Wadi](https://en.wikipedia.org/wiki/Sadd_el-Kafara).
 
@@ -299,7 +301,7 @@ High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People fr
 
 1. **1492–1479** [Thutmose II](https://en.wikipedia.org/wiki/Thutmose_II) Son of Thutmose I is a half-brother of Hatshepsut. Grandson of Amenhotep I through his mother, Mutnofret. He becomes pharaoh by marrying Hatshepsut - "long" marriage.
 
-* **1479–1458** [Queen Hatshepsut](/https://en.wikipedia.org/wiki/Hatshepsut). Temple @ [Deir_el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari).  Step-son and nephew was [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III), but he was too young so she took over.  Builds temple @ [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari). She does this b/c [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II) built his temple here and hew as the great unifier of Egypt after the first Intermediate Period. The hieroglyphic describe that later she declared herself king. However, her name was carved out by [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III). The walls depict: traveling to Punt. Thebes to Red Sea to the south to bring back giraffes. The walls depict first accurate images of sub-sahara Africa; and bringing back Frankensense and Mur PLANTS.  The walls describe her devine birth: The God Amun (i.e., the hidden one) descized as her father, Thutmose I, visits her mother and the result is that her mother becomes pregnant. **tallest obelisk** is in Thebes at Karnak Temple.
+* **1479–1458** [Queen Hatshepsut](/https://en.wikipedia.org/wiki/Hatshepsut). Temple @ [Deir_el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari).  Step-son and nephew was [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III), but he was too young so she took over.  Builds temple @ [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari). She does this b/c [Mentuhotep II](https://en.wikipedia.org/wiki/Mentuhotep_II) built his temple here and hew as the great unifier of Egypt after the first Intermediate Period. The hieroglyphic describe that later she declared herself king. However, her name was carved out by [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III). The walls depict: traveling to Punt. Thebes to Red Sea to the south to bring back giraffes. The walls depict first accurate images of sub-sahara Africa; and bringing back Frankensense and Mur PLANTS.  The walls describe her devine birth: The God Amun (i.e., the hidden one) disguised as her father, Thutmose I, visits her mother and the result is that her mother becomes pregnant. **tallest obelisk** is in Thebes at Karnak Temple.
 
 1. **1500 BCE** [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III) - greatest military leader. Thutmose II has a son with a different mother: [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III) and decides to have him marry Hatshepsut - his **step-mom** & **aunt**. Son of Thutmose II. May have ruled jointly with Hatshepsut, his aunt and step-mother, during the early part of her reign. Famous for his territorial expansion into Levant and Nubia (west Nile) and the Kingdom of Kush (East Nile - the gate keepers to the heart of Africa. Under his reign, the Ancient Egyptian Empire was at its greatest extent. Ruled during the height of Egypt's Power. Late in his reign, he obliterated Hatshepsut's name and image from temples and monuments. Had a lover name Sentma (sp?) overseer of palace and works and lots of land and has $. This relationship is documented in poronographic graffiti. His tomb was a real sarcophogus with pink granite from Aswan.  **Astronomical** ceiling. He is off training with military when young as Hatshepsut rules. In year 2 of his rule he goes Megia (i.e., Syria) and he goes **through** the valley. Typically this is a problem, but Thutmose III said I am going and you can follow. The army waiting doesn't expect that! However, b/c the Egyptians plundered fallen soldiers they didn't attack the retreating army and had to seige the city. Next 18 years he marchers there every year. His tomb in the Valley of the Kings - shaped in circle **also** has stick figures that look like book of the dead on papyrus **and** hard to get into in ancient times.
 
@@ -319,7 +321,9 @@ High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People fr
 
 #### 19th Dynasty (Ramses the Great/Exodus)
 
+1. **1292–1290** [Ramesses I](https://en.wikipedia.org/wiki/Ramesses_I) He has a **son** and **grandson** (See above ^). Friends of [Horemheb](https://en.wikipedia.org/wiki/Horemheb).
 
+1. **1290–1279** [Seti](https://en.wikipedia.org/wiki/Seti_I) - strange name because it comes from Set. Father of Ramesses the Great. Goes and conquers Kadesh (i.e., Syria)
 
 1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt. Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
 
