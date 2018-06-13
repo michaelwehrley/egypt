@@ -7,7 +7,7 @@ When Herodotus visited Egypt, the Egyptians already consider themselves ancient 
 Lecture 1: Intro
 Lecture 2: 700,000 - 3,200 years
 Lecture 3: 
-Lecture 4: * Napolean
+Lecture 4: * Napolean - Expedition; English Battle; Sphinx
 Lecture 5: * Rosetta Stone & Hieroglyphs
 Lecture 6: 1st king & Narmer Palette - in Egyptian Museum, Cairo
 Lecture 7: Rise of the Old Kingdom (i.e., Memphis). Saqqara v. Abydos; [Imhotep](https://en.wikipedia.org/wiki/Imhotep) architect w/ first step pyramid for Djoser 3rd dynasty. Build false doors imitate what they know out of store. [Heb-sed festival](https://en.wikipedia.org/wiki/Sed_festival) to show the pharaoh was still young.  Court yard is here & southern burials
@@ -25,6 +25,14 @@ Lecture 18: Obelisks - comes from the word sun.  Heliopolois - Sun City.
 Lecture 19: [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III)
 Lecture 20: 13th Dynasty keeps on rolling: Amenhotep II (military guy - **KV35**); Thutmose IV; [Amenhotep III](https://en.wikipedia.org/wiki/Amenhotep_III) The Magnificent King
 Lecture 21: Heretic Pharaoh: [Akhenaten](https://en.wikipedia.org/wiki/Akhenaten); changes military, religion, role of pharaho. Married to [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti).
+Lecture 22: [King Tutankhaten -> Tutankhamun](https://en.wikipedia.org/wiki/Tutankhamun)
+Lecture 23: Murder of King Tut
+Lecture 24: Medicine - necessary art: priests were physicians; suggestons in how to help when people are sick/tramua/broken bones; Temples you go to get healed - [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari); 3 major gods:
+1. **Sekmed** (she is a lioness and fierce) The myth is the destruction of man-kind. Re was pissed man was listening to him and wants to wipe mankind and tells Sekmed to kill mankind, but then Rey changes his mind...gets drunk
+1. **Tuf** Head of a man with long beat. God of writing.  This is one thing Egyptians wrote down. (Plato says writing was a terrible invention: "No men will have the appearance of true knowledge". Perfect example is Socrates). **Horus** (falcon and fights Set) and Tuf restores the **Eye of Horus**. Another myth Tuf saves Horus's life when stung by a scorpian and dies and Isis crys and Tuf comes down and sees dead Horus and resurrects Horus.
+1. Isis: resurrects her own husband. Story: fleeing from Set and she has 7 scorpions, but she and Horus are looking for shelter. The scorpions combine their power and kill the woman's child who denied them a stay at the in, but Isis then resurrects the son.
+
+Lecture 25: 
 
 Lecture 32: Exodus
 Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
@@ -298,7 +306,7 @@ High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People fr
 
 1. Heretic Pharaoh: [Amenhotep IV -> Akhenaten](https://en.wikipedia.org/wiki/Akhenaten). Changes military, religion, pharaoh. Comes to power b/c father is so sick (teeth). Finishes father's temple and takes wife [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti).  Takes **nem** name to "Benefitial to the `Akhen`".  Shown with long face, hips, breasts.  Kids <3 expressing themselves in the Cairo museum here.  Only one god, the `Atun`/`Aten` Builds **strange templs** at Karnak. Show that he is celebrating the [Heb-sed festival](https://en.wikipedia.org/wiki/Sed_festival) but ONLY the sun god. Many of his temples were taken down for other temples. In [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti)'s temple it shows **she** is making offerings to the God.  Women are increasing in power - another change. Other temples are now closing - not important. Moved Thebes to holy city in the desert 200 miles north (Bringham Young) - probably forced out of Thebes by the priests. Vision to move there about the sun and mountains.
 
-1.
+1. **1332–1324** [King Tutankhaten -> Tutankhamun](https://en.wikipedia.org/wiki/Tutankhamun) Commonly believed to be the son of Akhenaten, most likely reinstated the polytheistic Ancient Egyptian religion. His name change from Tutankhaten to Tutankhamun reflects the change in religion from the Monotheistic Atenism to the classic religion, of which Amun is a major deity. He is thought to have taken the throne at around age eight or nine and to have died around age eighteen or nineteen, giving him the nickname "The Boy King."
 
 1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt. Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
 
