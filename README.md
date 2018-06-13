@@ -31,9 +31,13 @@ Lecture 24: Medicine - necessary art: priests were physicians; suggestons in how
 1. **Sekmed** (she is a lioness and fierce) The myth is the destruction of man-kind. Re was pissed man was listening to him and wants to wipe mankind and tells Sekmed to kill mankind, but then Rey changes his mind...gets drunk
 1. **Tuf** Head of a man with long beat. God of writing.  This is one thing Egyptians wrote down. (Plato says writing was a terrible invention: "No men will have the appearance of true knowledge". Perfect example is Socrates). **Horus** (falcon and fights Set) and Tuf restores the **Eye of Horus**. Another myth Tuf saves Horus's life when stung by a scorpian and dies and Isis crys and Tuf comes down and sees dead Horus and resurrects Horus.
 1. Isis: resurrects her own husband. Story: fleeing from Set and she has 7 scorpions, but she and Horus are looking for shelter. The scorpions combine their power and kill the woman's child who denied them a stay at the in, but Isis then resurrects the son.
-
-Lecture 25: 
-
+Lecture 25: End of Dynasty 18th. End of [Amarna Period](https://en.wikipedia.org/wiki/Amarna_Period). Amarna is the name of the city today where Akhenaten moved the religious capital.
+Lecture 26: Mumification - rituals, 70 days
+Lecture 27: What mummies tell us - the how to. Evolution of muffies look and process.
+Lecture 28: Making a modern mummy
+Lecture 29: Dynasty 19
+Lecture 30:
+Lecture 31:
 Lecture 32: Exodus
 Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
 
@@ -56,6 +60,7 @@ Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
 * Abusir: The Forgotten Pyramids
   * [Neferefre](https://en.wikipedia.org/wiki/Neferefre)
 * Saqqara: 10 miles south of Cairo
+  * [Horemheb](https://en.wikipedia.org/wiki/Horemheb) is military tomb that now has cobras on its head.
   * [Gisr el-Mudir / The Enclosure of the Boss](https://en.wikipedia.org/wiki/Gisr_el-Mudir): pre-dates Pyramid if Djoser and making it oldest monument erected entirely with stone. 
   * [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser): first step pyramid & first tall structure built in **stone** (no longer of mud-brick and wood). [Imhotep](https://en.wikipedia.org/wiki/Imhotep), Djoser's pyramid architect, was of such importance and fame that he was honoured as a saint. Imhotep temple was never found, but associated with medicine and birds.
   * [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas): Virtual guide to immortality: spells and formulas; get rid of sin. Don't be fooled by the mound/ruin.
@@ -306,7 +311,15 @@ High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People fr
 
 1. Heretic Pharaoh: [Amenhotep IV -> Akhenaten](https://en.wikipedia.org/wiki/Akhenaten). Changes military, religion, pharaoh. Comes to power b/c father is so sick (teeth). Finishes father's temple and takes wife [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti).  Takes **nem** name to "Benefitial to the `Akhen`".  Shown with long face, hips, breasts.  Kids <3 expressing themselves in the Cairo museum here.  Only one god, the `Atun`/`Aten` Builds **strange templs** at Karnak. Show that he is celebrating the [Heb-sed festival](https://en.wikipedia.org/wiki/Sed_festival) but ONLY the sun god. Many of his temples were taken down for other temples. In [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti)'s temple it shows **she** is making offerings to the God.  Women are increasing in power - another change. Other temples are now closing - not important. Moved Thebes to holy city in the desert 200 miles north (Bringham Young) - probably forced out of Thebes by the priests. Vision to move there about the sun and mountains.
 
-1. **1332–1324** [King Tutankhaten -> Tutankhamun](https://en.wikipedia.org/wiki/Tutankhamun) Commonly believed to be the son of Akhenaten, most likely reinstated the polytheistic Ancient Egyptian religion. His name change from Tutankhaten to Tutankhamun reflects the change in religion from the Monotheistic Atenism to the classic religion, of which Amun is a major deity. He is thought to have taken the throne at around age eight or nine and to have died around age eighteen or nineteen, giving him the nickname "The Boy King."
+1. **1332–1324** [King Tutankhaten -> Tutankhamun](https://en.wikipedia.org/wiki/Tutankhamun) Commonly believed to be the son of Akhenaten, most likely reinstated the polytheistic Ancient Egyptian religion. His name change from Tutankhaten to Tutankhamun reflects the change in religion from the Monotheistic Atenism to the classic religion, of which Amun is a major deity. He is thought to have taken the throne at around age eight or nine and to have died around age eighteen or nineteen, giving him the nickname "The Boy King." [Ay](https://en.wikipedia.org/wiki/Ay) tells Tut to change his name and move back to Thebes. Fetuses were found in tomb. **Restoring & complete Amenhotep III Luxor temple**.
+
+1. **1324–1320** [Ay](https://en.wikipedia.org/wiki/Ay) Vizier of Tut and marries Tut's widow. Puts his tomb far off where Amenhotep III was buried to show Tut was a traditionalist - it was a going to be King Tut's tomb! His decorations are very close looking to Tut - trying to align himself with King Tut.
+
+1. **1320–1292** [Horemheb](https://en.wikipedia.org/wiki/Horemheb). Career military guy. Opposite of pacifist Akhenaten. Obliterated Images of the Amarna Pharaohs and **destroyed** and **vandalized** buildings and monuments associated with the [Amarna Period](https://en.wikipedia.org/wiki/Amarna_Period).  Even the list of kings skips over the Amarna Kings. Integrates priests into army. Also builds a large pilon at Karnak to tell his great story and builds it out of Akhenaten's temples where Akhenaten is worshiping the sun god. Built a commoner's tomb in Saqqara where nobility at this time were burried - . His goal is to now be buried in the Valley of the Kings.
+
+#### 19th Dynasty (Ramses the Great/Exodus)
+
+
 
 1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt. Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
 
