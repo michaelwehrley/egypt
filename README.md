@@ -4,42 +4,42 @@ Cleopatra who ruled Egypt in the first centry BCE, is closer to us today, then t
 
 When Herodotus visited Egypt, the Egyptians already consider themselves ancient - they had their own archeologists!
 
-Lecture 1: Intro
-Lecture 2: 700,000 - 3,200 years
-Lecture 3: 
-Lecture 4: * Napolean - Expedition; English Battle; Sphinx
-Lecture 5: * Rosetta Stone & Hieroglyphs
-Lecture 6: 1st king & Narmer Palette - in Egyptian Museum, Cairo
-Lecture 7: Rise of the Old Kingdom (i.e., Memphis). Saqqara v. Abydos; [Imhotep](https://en.wikipedia.org/wiki/Imhotep) architect w/ first step pyramid for Djoser 3rd dynasty. Build false doors imitate what they know out of store. [Heb-sed festival](https://en.wikipedia.org/wiki/Sed_festival) to show the pharaoh was still young.  Court yard is here & southern burials
-Lecture 8: [Sneferu](https://en.wikipedia.org/wiki/Sneferu) taught Egypt how to build pyramids: Meidum (causeway to bring up pharaoh from the temple), Bent Pyramid @ Dashur, Red Pyramid @ Dashur.
-Lecture 9: Pyramids of Giza [Khufu](https://en.wikipedia.org/wiki/Khufu).
-Lecture 10: End of the Old Kingdom - downhill - and the birth of [sun temples](https://en.wikipedia.org/wiki/Egyptian_sun_temple) near Saqqara by the 5th dynasty; 6th Dynasty (Teti & Mereruka's mastaba)
-Lecture 11: First Intermediate Period
-Lecture 12: 11th & 12th Dynasty
-Lecture 13: Amenemhet I, Senusret I, Amenemhet II, Senusret II
-Lecture 14: Hyksos and Expulsion of the Hyksos by [Seqenenre Tao](https://en.wikipedia.org/wiki/Seqenenre_Tao)
-Lecture 15: Joseph story (Genesis: 37-50)
-Lecture 16: Beginning of the New Kingdom - the 18th Dynasty
-Lecture 17: Hatshepsut - daugher of a king, and the wife, and then ruled inplace of step-son. Ruled as "queen" and then "king".
-Lecture 18: Obelisks - comes from the word sun.  Heliopolois - Sun City.
-Lecture 19: [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III)
-Lecture 20: 13th Dynasty keeps on rolling: Amenhotep II (military guy - **KV35**); Thutmose IV; [Amenhotep III](https://en.wikipedia.org/wiki/Amenhotep_III) The Magnificent King
-Lecture 21: Heretic Pharaoh: [Akhenaten](https://en.wikipedia.org/wiki/Akhenaten); changes military, religion, role of pharaho. Married to [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti).
-Lecture 22: [King Tutankhaten -> Tutankhamun](https://en.wikipedia.org/wiki/Tutankhamun)
-Lecture 23: Murder of King Tut
-Lecture 24: Medicine - necessary art: priests were physicians; suggestons in how to help when people are sick/tramua/broken bones; Temples you go to get healed - [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari); 3 major gods:
-1. **Sekmed** (she is a lioness and fierce) The myth is the destruction of man-kind. Re was pissed man was listening to him and wants to wipe mankind and tells Sekmed to kill mankind, but then Rey changes his mind...gets drunk
-1. **Tuf** Head of a man with long beat. God of writing.  This is one thing Egyptians wrote down. (Plato says writing was a terrible invention: "No men will have the appearance of true knowledge". Perfect example is Socrates). **Horus** (falcon and fights Set) and Tuf restores the **Eye of Horus**. Another myth Tuf saves Horus's life when stung by a scorpian and dies and Isis crys and Tuf comes down and sees dead Horus and resurrects Horus.
-1. Isis: resurrects her own husband. Story: fleeing from Set and she has 7 scorpions, but she and Horus are looking for shelter. The scorpions combine their power and kill the woman's child who denied them a stay at the in, but Isis then resurrects the son.
-Lecture 25: End of Dynasty 18th. End of [Amarna Period](https://en.wikipedia.org/wiki/Amarna_Period). Amarna is the name of the city today where Akhenaten moved the religious capital.
-Lecture 26: Mumification - rituals, 70 days
-Lecture 27: What mummies tell us - the how to. Evolution of muffies look and process.
-Lecture 28: Making a modern mummy
-Lecture 29: Dynasty 19
-Lecture 30:
-Lecture 31:
-Lecture 32: Exodus
-Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
+* Lecture 1: Intro
+* Lecture 2: 700,000 - 3,200 years
+* Lecture 3: 
+* Lecture 4: * Napolean - Expedition; English Battle; Sphinx
+* Lecture 5: * Rosetta Stone & Hieroglyphs
+* Lecture 6: 1st king & Narmer Palette - in Egyptian Museum, Cairo
+* Lecture 7: Rise of the Old Kingdom (i.e., Memphis). Saqqara v. Abydos; [Imhotep](https://en.wikipedia.org/wiki/Imhotep) architect w/ first step pyramid for Djoser 3rd dynasty. Build false doors imitate what they know out of store. [Heb-sed festival](https://en.wikipedia.org/wiki/Sed_festival) to show the pharaoh was still young.  Court yard is here & southern burials
+* Lecture 8: [Sneferu](https://en.wikipedia.org/wiki/Sneferu) taught Egypt how to build pyramids: Meidum (causeway to bring up pharaoh from the temple), Bent Pyramid @ Dashur, Red Pyramid @ Dashur.
+* Lecture 9: Pyramids of Giza [Khufu](https://en.wikipedia.org/wiki/Khufu).
+* Lecture 10: End of the Old Kingdom - downhill - and the birth of [sun temples](https://en.wikipedia.org/wiki/Egyptian_sun_temple) near Saqqara by the 5th dynasty; 6th Dynasty (Teti & Mereruka's mastaba)
+* Lecture 11: First Intermediate Period
+* Lecture 12: 11th & 12th Dynasty
+* Lecture 13: Amenemhet I, Senusret I, Amenemhet II, Senusret II
+* Lecture 14: Hyksos and Expulsion of the Hyksos by [Seqenenre Tao](https://en.wikipedia.org/wiki/Seqenenre_Tao)
+* Lecture 15: Joseph story (Genesis: 37-50)
+* Lecture 16: Beginning of the New Kingdom - the 18th Dynasty
+* Lecture 17: Hatshepsut - daugher of a king, and the wife, and then ruled inplace of step-son. Ruled as "queen" and then "king".
+* Lecture 18: Obelisks - comes from the word sun.  Heliopolois - Sun City.
+* Lecture 19: [Thutmose III](https://en.wikipedia.org/wiki/Thutmose_III)
+* Lecture 20: 13th Dynasty keeps on rolling: Amenhotep II (military guy - **KV35**); Thutmose IV; [Amenhotep III](https://en.wikipedia.org/wiki/Amenhotep_III) The Magnificent King
+* Lecture 21: Heretic Pharaoh: [Akhenaten](https://en.wikipedia.org/wiki/Akhenaten); changes military, religion, role of pharaho. Married to [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti).
+* Lecture 22: [King Tutankhaten -> Tutankhamun](https://en.wikipedia.org/wiki/Tutankhamun)
+* Lecture 23: Murder of King Tut
+* Lecture 24: Medicine - necessary art: priests were physicians; suggestons in how to help when people are sick/tramua/broken bones; Temples you go to get healed - [Deir el-Bahari](https://en.wikipedia.org/wiki/Deir_el-Bahari); 3 major gods:
+  1. **Sekmed** (she is a lioness and fierce) The myth is the destruction of man-kind. Re was pissed man was listening to him and wants to wipe mankind and tells Sekmed to kill mankind, but then Rey changes his mind...gets drunk
+  1. **Tuf** Head of a man with long beat. God of writing.  This is one thing Egyptians wrote down. (Plato says writing was a terrible invention: "No men will have the appearance of true knowledge". Perfect example is Socrates). **Horus** (falcon and fights Set) and Tuf restores the **Eye of Horus**. Another myth Tuf saves Horus's life when stung by a scorpian and dies and Isis crys and Tuf comes down and sees dead Horus and resurrects Horus.
+  1. Isis: resurrects her own husband. Story: fleeing from Set and she has 7 scorpions, but she and Horus are looking for shelter. The scorpions combine their power and kill the woman's child who denied them a stay at the in, but Isis then resurrects the son.
+* Lecture 25: End of Dynasty 18th. End of [Amarna Period](https://en.wikipedia.org/wiki/Amarna_Period). Amarna is the name of the city today where Akhenaten moved the religious capital.
+* Lecture 26: Mumification - rituals, 70 days
+* Lecture 27: What mummies tell us - the how to. Evolution of muffies look and process.
+* Lecture 28: Making a modern mummy
+* Lecture 29: Dynasty 19 & Seti I
+* Lecture 30: Ramses the Great - The early years
+* Lecture 31: Ramses the Great - The later years
+* Lecture 32: Exodus
+* Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
 
 ## Sites to Visit (north to south)
 * Buto: Lower Egypt
@@ -62,10 +62,10 @@ Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
 * Saqqara: 10 miles south of Cairo
   * [Horemheb](https://en.wikipedia.org/wiki/Horemheb) is military tomb that now has cobras on its head.
   * [Gisr el-Mudir / The Enclosure of the Boss](https://en.wikipedia.org/wiki/Gisr_el-Mudir): pre-dates Pyramid if Djoser and making it oldest monument erected entirely with stone. 
-  * [Pyramid of Djoser]((https://en.wikipedia.org/wiki/Pyramid_of_Djoser): first step pyramid & first tall structure built in **stone** (no longer of mud-brick and wood). [Imhotep](https://en.wikipedia.org/wiki/Imhotep), Djoser's pyramid architect, was of such importance and fame that he was honoured as a saint. Imhotep temple was never found, but associated with medicine and birds.
+  * [Pyramid of Djoser](https://en.wikipedia.org/wiki/Pyramid_of_Djoser): first step pyramid & first tall structure built in **stone** (no longer of mud-brick and wood). [Imhotep](https://en.wikipedia.org/wiki/Imhotep), Djoser's pyramid architect, was of such importance and fame that he was honoured as a saint. Imhotep temple was never found, but associated with medicine and birds.
   * [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas): Virtual guide to immortality: spells and formulas; get rid of sin. Don't be fooled by the mound/ruin.
   * The mastaba of [Mereruka](https://en.wikipedia.org/wiki/Mereruka) (vizier of Teti of 6th Dynasty) is the largest and most elaborate of all the non-royal tombs in Saqqara with 33 rooms or chambers in total
-* Memphis: unified capital. Memphis (12 mi south of Giza and was strategic) was believed to be under the protection of the god Ptah, the patron of craftsmen. Its great temple, Hut-ka-Ptah (meaning "Enclosure of the ka of Ptah"), was one of the most prominent structures in the city. The name of this temple, rendered in Greek as Aί-γυ-πτoς (Ai-gy-ptos) by the historian Manetho, is believed to be the etymological origin of the modern English name Egypt.
+* Memphis: unified capital. Memphis (12 mi south of Giza and was strategic) was believed to be under the protection of the god [Ptah](https://en.wikipedia.org/wiki/Ptah), the patron of craftsmen. Its great temple, Hut-ka-Ptah (meaning "Enclosure of the ka of Ptah"), was one of the most prominent structures in the city. The name of this temple, rendered in Greek as Aί-γυ-πτoς (Ai-gy-ptos) by the historian Manetho, is believed to be the etymological origin of the modern English name Egypt.
 * Dahshur: [Sneferu](https://en.wikipedia.org/wiki/Sneferu), 2 monuments influenced by step pyramids:
   * [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).
   * [Red Pyramid](https://en.wikipedia.org/wiki/Red_Pyramid)
@@ -89,7 +89,7 @@ Lecture 33: Ramses II tomb (from Deir el-Bahari) and restoration
 * [Wadi]()
   * Dam (unsuccessful) at [Wadi](https://en.wikipedia.org/wiki/Sadd_el-Kafara).
 
-* Valley of the Kings
+* Valley of the Kings: Seti I astrological blue ceiling is beautiful.
 * Valley of the Queens:
   * [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti) is the wife of the Heretic King v. Rameses II wife [Nefertari](https://en.wikipedia.org/wiki/Nefertari).
 
@@ -194,7 +194,7 @@ Narmar Palette lays the foundation for a god-king; i.e., a pharaoh.
 1. **2637–2613 BCE** Pharaoh Huni the False Pyramid. The first and last step pyramid after Djoser. - 213 (ruined) - 301 ft tall. Built by last Pharaoh of the 3rd dynasty: Huni.  But Sneferu was behind the idea.
 
 #### 4th Dynasty (Traditional Pyramids)
-1. **2600 BC** [Sneferu](https://en.wikipedia.org/wiki/Sneferu) - Egypt's greatest pyramid builder. Inovator & and the circle! Build monements after Djoser in Dahshur.
+1. **2600 BC** [Sneferu](https://en.wikipedia.org/wiki/Sneferu) - Egypt's greatest pyramid builder & was the founding monarch of the 4th dynasty. Inovator & and the circle! Build monements after Djoser in Dahshur.
   * [Hetepheres I](https://en.wikipedia.org/wiki/Hetepheres_I) was wife of Sneferu and mother of [Khufu](https://en.wikipedia.org/wiki/Khufu).
   * [Meidum](https://en.wikipedia.org/wiki/Meidum) Pyramid - more of a tower then pyramid.  In the city of Meidum
   * The [Bent Pyramid](https://en.wikipedia.org/wiki/Bent_Pyramid).  Would have been taller than pyramids of Giza.  The bent pryamid was built on sandy ground and began to crack - it had to be abandoned.
@@ -323,7 +323,15 @@ High tide of the [Hyksos](https://en.wikipedia.org/wiki/Hyksos) ruler. People fr
 
 1. **1292–1290** [Ramesses I](https://en.wikipedia.org/wiki/Ramesses_I) He has a **son** and **grandson** (See above ^). Friends of [Horemheb](https://en.wikipedia.org/wiki/Horemheb).
 
-1. **1290–1279** [Seti](https://en.wikipedia.org/wiki/Seti_I) - strange name because it comes from Set. Father of Ramesses the Great. Goes and conquers Kadesh (i.e., Syria)
+1. **1290–1279** [Seti](https://en.wikipedia.org/wiki/Seti_I) - strange name because it comes from Set. Father of Ramesses the Great. Goes and conquers Kadesh (i.e., Syria). He is best know for adding the [Great Hypostyle Hall](https://en.wikipedia.org/wiki/Great_Hypostyle_Hall) to the [Precinct of Amun-Re](https://en.wikipedia.org/wiki/Precinct_of_Amun-Re) at [Karnak Temple Complex/Karnataka](https://en.wikipedia.org/wiki/Karnak). Used to be painted and beautiful. This shows he is a traditionalist. Then he builds a [temple at Abydos](https://en.wikipedia.org/wiki/Abydos,_Egypt#Temple_of_Seti_I) (where Osiris was buried) - this says it all!  He is saying "back to the good old days!"
+
+![Seti I Template @ Abydos](/images/SetiIAbydos.jpg)
+
+Maybe the most beautiful temple in Egypt because the artists during Akhenaten's reign had freedom and they are still alive to apply to the history.  Behind it is a very strange temple: [The Osireion[(https://en.wikipedia.org/wiki/Osireion). Built to honor Osiris:
+
+![Osirieon](/images/Osirieon.jpg)
+
+This temple was likely not built by Seti I.  Instead he discovers it and carves his name on it. The stones are out of time period - they look more like the architecture of the time period of Khafre as can be seen in the [Valley Temple of Khafre.](https://en.wikipedia.org/wiki/Khafra#Valley_Temple).
 
 1. [Jebel Barkal](https://en.wikipedia.org/wiki/Jebel_Barkal) rock formation had a strange additional rock formation that looked like the cobra and white crown/hat of the south that Egyptian's ware. Kushite rulers became pharoahs. Create 200 pyramids - more than in all of Egypt. Smaller and steeper wuht flat tops. [Meroë](https://en.wikipedia.org/wiki/Mero%C3%AB)
 
